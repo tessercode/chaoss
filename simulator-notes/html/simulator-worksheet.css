@@ -1,0 +1,129 @@
+/* simulator-worksheet.css */
+
+body {
+    font-family: Georgia, serif;
+    font-size: 16px;
+    line-height: 1.6;
+    max-width: 1100px;
+    margin: 2rem auto;
+    padding: 0 1.5rem;
+    color: #222;
+}
+
+h1 { font-size: 1.8rem; margin-bottom: 0.25rem; }
+h2 { font-size: 1.4rem; border-bottom: 1px solid #ccc; padding-bottom: 0.25rem; margin-top: 2.5rem; }
+h3 { font-size: 1.15rem; margin-top: 2rem; }
+
+p.authors { color: #555; font-style: italic; margin-top: 0; }
+
+a { color: #2a6bb0; }
+a:hover { text-decoration: underline; }
+
+/* ── Simulator capability table ─────────────────────────────────────── */
+
+/* Column group colors (matching the LaTeX source) */
+:root {
+    --color-sim:        #d0e6ca;   /* SimGreen    RGB 208,230,202 */
+    --color-neuron:     #feefc1;   /* ModelYellow RGB 254,239,193 */
+    --color-learning:   #fbdfc2;   /* LearningOrange RGB 251,223,194 */
+    --color-hardware:   #bcd1f6;   /* HardwareBlue   RGB 190,209,246 */
+    --color-viability:  #e5e5e5;   /* ColumnGray  gray 0.90 */
+    --color-header:     #b3b3b3;   /* HeaderGray  gray 0.70 */
+}
+
+.table-scroll {
+    overflow-x: auto;
+    margin: 1rem 0;
+}
+
+.sim-table {
+    border-collapse: collapse;
+    font-size: 0.8rem;
+    white-space: nowrap;
+}
+
+/* Cell base */
+.sim-table th,
+.sim-table td {
+    border: 1px solid #999;
+    padding: 0.2rem 0.4rem;
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* Column group background colors */
+.sim-table .col-sim      { background: var(--color-sim); }
+.sim-table .col-neuron   { background: var(--color-neuron); }
+.sim-table .col-learning { background: var(--color-learning); }
+.sim-table .col-hardware { background: var(--color-hardware); }
+.sim-table .col-viability{ background: var(--color-viability); }
+
+/* Group header row */
+.sim-table .group-row th {
+    background: var(--color-header);
+    font-weight: bold;
+    font-size: 0.85rem;
+    padding: 0.3rem 0.5rem;
+}
+
+/* Override group header colors to match their columns */
+.sim-table .group-row .group-neuron   { background: var(--color-neuron); }
+.sim-table .group-row .group-learning { background: var(--color-learning); }
+.sim-table .group-row .group-hardware { background: var(--color-hardware); }
+.sim-table .group-row .group-viability{ background: var(--color-viability); }
+.sim-table .group-row .group-sim      { background: var(--color-header); }
+
+/* Rotated column headers */
+.sim-table .col-header-row th {
+    height: 9rem;
+    vertical-align: bottom;
+    padding: 0;
+}
+.sim-table .col-header-row .rotate {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    white-space: nowrap;
+    padding: 0.3rem 0.5rem;
+    display: block;
+    font-weight: bold;
+}
+
+/* Simulator name column */
+.sim-table .sim-name {
+    text-align: left;
+    white-space: normal;
+    min-width: 9rem;
+    max-width: 14rem;
+}
+
+.sim-table .notes-link {
+    font-size: 0.75rem;
+    color: #666;
+}
+
+/* Checkmark */
+.sim-table .check {
+    color: #2a7a2a;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+/* ── Notes section ───────────────────────────────────────────────────── */
+
+/* tcolorbox "at a glance" blocks rendered by pandoc */
+div.tcolorbox,
+div.mybox,
+blockquote {
+    background: #eef4fb;
+    border: 1px solid #6a9fd8;
+    border-left: 4px solid #2a6bb0;
+    border-radius: 4px;
+    padding: 0.75rem 1rem;
+    margin: 0.75rem 0 1.5rem 0;
+    font-size: 0.95rem;
+}
+
+#notes section,
+#notes > * + * {
+    margin-top: 0.5rem;
+}

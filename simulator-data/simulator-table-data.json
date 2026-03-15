@@ -1,0 +1,941 @@
+[
+  {
+    "name": "ANNarchy",
+    "citation_key": "vitayANNarchyCodeGeneration2015",
+    "citation": {
+      "entry_type": "article",
+      "author": "Vitay, Julien and Dinkelbach, Helge and Hamker, Fred H.",
+      "title": "ANNarchy: A Code Generation Approach to Neural Simulations on Parallel Hardware",
+      "year": "2015",
+      "journal": "Frontiers in Neuroinformatics",
+      "volume": "9",
+      "pages": "nil",
+      "doi": "10.3389/fninf.2015.00019"
+    },
+    "source_url": "https://github.com/ANNarchy/ANNarchy",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "Arbor",
+    "citation_key": "akarArborLibraryV0902023",
+    "citation": {
+      "entry_type": "misc",
+      "author": "Akar, Nora Abi and Biddiscombe, John and Cumming, Benjamin and Kabic, Marko and Karakasis, Vasileios and Klijn, Wouter and K{\\\"u}sters, Anne and Peyser, Alexander and Yates, Stuart and Hater, Thorsten and Huisman, Brent and Hagen, Espen and De Schepper, Robin and Linssen, Charl and Stoppels, Harmen and Schmitt, Sebastian and Huber, Felix and Engelen, Max and B{\\\"o}sch, Fabian and Luboeinski, Jannik and Frasch, Simon and Drescher, Lukas and Landsmeer, Lennart",
+      "title": "Arbor Library v0.9.0",
+      "year": "2023",
+      "doi": "10.5281/ZENODO.8233847",
+      "howpublished": "Zenodo"
+    },
+    "source_url": "https://github.com/arbor-sim/arbor",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "Auryn",
+    "citation_key": "zenkeLimitsHighspeedSimulations2014",
+    "citation": {
+      "entry_type": "article",
+      "author": "Zenke, Friedemann and Gerstner, Wulfram",
+      "title": "Limits to High-Speed Simulations of Spiking Neural Networks Using General-Purpose Computers",
+      "year": "2014",
+      "journal": "Frontiers in Neuroinformatics",
+      "volume": "8",
+      "pages": "nil",
+      "doi": "10.3389/fninf.2014.00076"
+    },
+    "source_url": "https://github.com/fzenke/auryn",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 1,
+      "score": 5
+    }
+  },
+  {
+    "name": "BindsNET",
+    "citation_key": "hazanBindsNETMachineLearningOriented2018",
+    "citation": {
+      "entry_type": "article",
+      "author": "Hazan, Hananel and Saunders, Daniel J. and Khan, Hassaan and Patel, Devdhar and Sanghavi, Darpan T. and Siegelmann, Hava T. and Kozma, Robert",
+      "title": "BindsNET: A Machine Learning-Oriented Spiking Neural Networks Library in Python",
+      "year": "2018",
+      "journal": "Frontiers in Neuroinformatics",
+      "volume": "12",
+      "pages": "89",
+      "doi": "10.3389/fninf.2018.00089"
+    },
+    "source_url": "https://github.com/BindsNET/bindsnet",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "BrainCog",
+    "citation_key": "zengBrainCogSpikingNeural2023",
+    "citation": {
+      "entry_type": "article",
+      "author": "Zeng, Yi and Zhao, Dongcheng and Zhao, Feifei and Shen, Guobin and Dong, Yiting and Lu, Enmeng and Zhang, Qian and Sun, Yinqian and Liang, Qian and Zhao, Yuxuan and Zhao, Zhuoya and Fang, Hongjian and Wang, Yuwei and Li, Yang and Liu, Xin and Du, Chengcheng and Kong, Qingqun and Ruan, Zizhe and Bi, Weida",
+      "title": "BrainCog: A Spiking Neural Network Based, Brain-Inspired Cognitive Intelligence Engine for Brain-Inspired AI and Brain Simulation",
+      "year": "2023",
+      "journal": "Patterns",
+      "volume": "4",
+      "number": "8",
+      "pages": "100789",
+      "doi": "10.1016/j.patter.2023.100789"
+    },
+    "source_url": "https://github.com/BrainCog-X/Brain-Cog",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "BrainPy",
+    "citation_key": "wangBrainPyFlexibleIntegrative2023",
+    "citation": {
+      "entry_type": "article",
+      "author": "Wang, Chaoming and Zhang, Tianqiu and Chen, Xiaoyu and He, Sichao and Li, Shangyang and Wu, Si",
+      "title": "BrainPy, a Flexible, Integrative, Efficient, and Extensible Framework for General-Purpose Brain Dynamics Programming",
+      "year": "2023",
+      "journal": "eLife",
+      "volume": "12",
+      "pages": "e86365",
+      "doi": "10.7554/eLife.86365"
+    },
+    "source_url": "https://github.com/brainpy/BrainPy",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "Brian2",
+    "citation_key": "stimbergBrian2Intuitive2019",
+    "citation": {
+      "entry_type": "article",
+      "author": "Stimberg, Marcel and Brette, Romain and Goodman, Dan Fm",
+      "title": "Brian 2, an Intuitive and Efficient Neural Simulator",
+      "year": "2019",
+      "journal": "eLife",
+      "volume": "8",
+      "pages": "e47314",
+      "doi": "10.7554/eLife.47314"
+    },
+    "source_url": "https://briansimulator.org/",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "Brian2Loihi",
+    "citation_key": "michaelisBrian2LoihiEmulatorNeuromorphic2022",
+    "citation": {
+      "entry_type": "article",
+      "author": "Michaelis, Carlo and Lehr, Andrew B. and Oed, Winfried and Tetzlaff, Christian",
+      "title": "Brian2Loihi: An Emulator for the Neuromorphic Chip Loihi Using the Spiking Neural Network Simulator Brian",
+      "year": "2022",
+      "journal": "Frontiers in Neuroinformatics",
+      "volume": "16",
+      "pages": "1015624",
+      "doi": "10.3389/fninf.2022.1015624"
+    },
+    "source_url": "https://github.com/sagacitysite/brian2_loihi",
+    "sustainability": {
+      "freshness": 1,
+      "documentation": 1,
+      "community": 1,
+      "score": 3
+    }
+  },
+  {
+    "name": "BSim",
+    "citation_key": "quHighPerformanceSimulation2020",
+    "citation": {
+      "entry_type": "article",
+      "author": "Qu, Peng and Zhang, Youhui and Fei, Xiang and Zheng, Weimin",
+      "title": "High Performance Simulation of Spiking Neural Network on GPGPUs",
+      "year": "2020",
+      "journal": "IEEE Transactions on Parallel and Distributed Systems",
+      "volume": "31",
+      "number": "11",
+      "pages": "2510--2523",
+      "doi": "10.1109/TPDS.2020.2994123"
+    },
+    "source_url": "https://github.com/CRAFT-THU/BSim",
+    "sustainability": {
+      "freshness": 0,
+      "documentation": 0,
+      "community": 1,
+      "score": 1
+    }
+  },
+  {
+    "name": "CARLsim",
+    "citation_key": "niedermeierCARLsim6Open2022",
+    "citation": {
+      "entry_type": "inproceedings",
+      "author": "Niedermeier, Lars and Chen, Kexin and Xing, Jinwei and Das, Anup and Kopsick, Jeffrey and Scott, Eric and Sutton, Nate and Weber, Killian and Dutt, Nikil and Krichmar, Jeffrey L.",
+      "title": "CARLsim 6: An Open Source Library for Large-Scale, Biologically Detailed Spiking Neural Network Simulation",
+      "year": "2022",
+      "booktitle": "2022 International Joint Conference on Neural Networks (IJCNN)",
+      "publisher": "IEEE",
+      "address": "Padua, Italy",
+      "pages": "1--10",
+      "doi": "10.1109/IJCNN55064.2022.9892644"
+    },
+    "source_url": "https://github.com/UCI-CARL/CARLsim6",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "cuSNN",
+    "citation_key": "paredes-vallesUnsupervisedLearningHierarchical2020",
+    "citation": {
+      "entry_type": "article",
+      "author": "Paredes-Valles, Federico and Scheper, Kirk Yannick Willehm and De Croon, Guido C. H. E.",
+      "title": "Unsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception",
+      "year": "2020",
+      "journal": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "volume": "42",
+      "number": "8",
+      "pages": "2051--2064",
+      "doi": "10.1109/TPAMI.2019.2903179"
+    },
+    "source_url": "https://github.com/tudelft/cuSNN",
+    "sustainability": {
+      "freshness": 0,
+      "documentation": 1,
+      "community": 1,
+      "score": 2
+    }
+  },
+  {
+    "name": "Doryta",
+    "citation_key": "cruz-camachoPerformanceEvaluationSpintronicBased2025",
+    "citation": {
+      "entry_type": "article",
+      "author": "Cruz-Camacho, Elkin and Qian, Siyuan and Shukla, Ankit and McGlohon, Neil and Rakheja, Shaloo and Carothers, Christopher",
+      "title": "Performance Evaluation of Spintronic-Based Spiking Neural Networks Using Parallel Discrete-Event Simulation",
+      "year": "2025",
+      "journal": "ACM Transactions on Modeling and Computer Simulation",
+      "volume": "35",
+      "number": "1",
+      "pages": "1--30",
+      "doi": "10.1145/3649464"
+    },
+    "source_url": "https://github.com/helq/doryta",
+    "sustainability": {
+      "freshness": 1,
+      "documentation": 1,
+      "community": 0,
+      "score": 2
+    }
+  },
+  {
+    "name": "EDLUT",
+    "citation_key": "naverosSpikingNeuralSimulator2015",
+    "citation": {
+      "entry_type": "article",
+      "author": "Naveros, Francisco and Luque, Niceto R. and Garrido, Jesus A. and Carrillo, Richard R. and Anguita, Mancia and Ros, Eduardo",
+      "title": "A Spiking Neural Simulator Integrating Event-Driven and Time-Driven Computation Schemes Using Parallel CPU-GPU Co-Processing: A Case Study",
+      "year": "2015",
+      "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+      "volume": "26",
+      "number": "7",
+      "pages": "1567--1574",
+      "doi": "10.1109/TNNLS.2014.2345844"
+    },
+    "source_url": "https://github.com/EduardoRosLab/edlut",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 0,
+      "community": 1,
+      "score": 3
+    }
+  },
+  {
+    "name": "Emergent",
+    "citation_key": "oreillyComputationalCognitiveNeuroscience2024",
+    "citation": {
+      "entry_type": "book",
+      "author": "O'Reilly, Randall C. and Munakata, Yuko and Frank, Michael J and Hazy, Thomas E. and Contributors",
+      "title": "Computational Cognitive Neuroscience",
+      "year": "2024",
+      "publisher": "Online Book, 5th Edition",
+      "address": "https://compcogneuro.org/book"
+    },
+    "source_url": "https://github.com/emer/emergent",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "ENLARGE",
+    "citation_key": "quENLARGEEfficientSNN2023",
+    "citation": {
+      "entry_type": "article",
+      "author": "Qu, Peng and Lin, Hui and Pang, Meng and Liu, Xiaofei and Zheng, Weimin and Zhang, Youhui",
+      "title": "ENLARGE: An Efficient SNN Simulation Framework on GPU Clusters",
+      "year": "2023",
+      "journal": "IEEE Transactions on Parallel and Distributed Systems",
+      "volume": "34",
+      "number": "9",
+      "pages": "2529--2540",
+      "doi": "10.1109/TPDS.2023.3291825"
+    },
+    "source_url": "https://github.com/yhx/enlarge",
+    "sustainability": {
+      "freshness": 1,
+      "documentation": 1,
+      "community": 1,
+      "score": 3
+    }
+  },
+  {
+    "name": "Fugu",
+    "citation_key": "aimoneComposingNeuralAlgorithms2019",
+    "citation": {
+      "entry_type": "inproceedings",
+      "author": "Aimone, James B. and Severa, William and Vineyard, Craig M.",
+      "title": "Composing Neural Algorithms with Fugu",
+      "year": "2019",
+      "booktitle": "Proceedings of the International Conference on Neuromorphic Systems",
+      "publisher": "ACM",
+      "address": "Knoxville TN USA",
+      "pages": "1--8",
+      "doi": "10.1145/3354265.3354268"
+    },
+    "source_url": "https://github.com/sandialabs/Fugu",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 1,
+      "score": 5
+    }
+  },
+  {
+    "name": "Genesis",
+    "citation_key": "bowerBookGENESISExploring1998",
+    "citation": {
+      "entry_type": "book",
+      "author": "Bower, James M. and Beeman, David",
+      "title": "The Book of GENESIS: Exploring Realistic Neural Models with the GEneral NEural SImulation System",
+      "year": "1998",
+      "publisher": "Springer New York",
+      "address": "New York, NY",
+      "doi": "10.1007/978-1-4612-1634-6"
+    },
+    "source_url": "https://github.com/genesis-sim/genesis-2.4",
+    "sustainability": {
+      "freshness": 0,
+      "documentation": 2,
+      "community": 1,
+      "score": 3
+    }
+  },
+  {
+    "name": "GeNN",
+    "citation_key": "yavuzGeNNCodeGeneration2016",
+    "citation": {
+      "entry_type": "article",
+      "author": "Yavuz, Esin and Turner, James and Nowotny, Thomas",
+      "title": "GeNN: A Code Generation Framework for Accelerated Brain Simulations",
+      "year": "2016",
+      "journal": "Scientific Reports",
+      "volume": "6",
+      "number": "1",
+      "pages": "18854",
+      "doi": "10.1038/srep18854"
+    },
+    "source_url": "https://github.com/genn-team/genn",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "jaxSNN",
+    "citation_key": "mullerJaxsnnEventdrivenGradient2024",
+    "citation": {
+      "entry_type": "inproceedings",
+      "author": "M{\\\"u}ller, Eric and Althaus, Moritz and Arnold, Elias and Spilger, Philipp and Pehle, Christian and Schemmel, Johannes",
+      "title": "Jaxsnn: Event-driven Gradient Estimation for Analog Neuromorphic Hardware",
+      "year": "2024",
+      "booktitle": "2024 Neuro Inspired Computational Elements Conference (NICE)",
+      "publisher": "IEEE",
+      "address": "La Jolla, CA, USA",
+      "pages": "1--6",
+      "doi": "10.1109/NICE61972.2024.10548709"
+    },
+    "source_url": "https://github.com/electronicvisions/jaxsnn",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 1,
+      "score": 5
+    }
+  },
+  {
+    "name": "Lava",
+    "citation_key": "intelneuromorphiccomputinglabLavaSoftwareFramework2021",
+    "citation": {
+      "entry_type": "misc",
+      "author": "Intel Neuromorphic Computing Lab",
+      "title": "Lava: A Software Framework for Neuromorphic Computing",
+      "year": "2021",
+      "howpublished": "Intel Neuromorphic Computing Lab"
+    },
+    "source_url": "https://github.com/lava-nc/lava",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "Memristor-Spikelearn",
+    "citation_key": "liuMemristorSpikelearnSpikingNeural2023",
+    "citation": {
+      "entry_type": "inproceedings",
+      "author": "Liu, Yuming and Yanguas-Gil, Angel and Madireddy, Sandeep and Li, Yanjing",
+      "title": "Memristor-Spikelearn: A Spiking Neural Network Simulator for Studying Synaptic Plasticity under Realistic Device and Circuit Behaviors",
+      "year": "2023",
+      "booktitle": "2023 Design, Automation & Test in Europe Conference & Exhibition (DATE)",
+      "publisher": "IEEE",
+      "address": "Antwerp, Belgium",
+      "pages": "1--6",
+      "doi": "10.23919/DATE56975.2023.10136938"
+    },
+    "source_url": "https://github.com/YLab-UChicago/Memristor-Spikelearn",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 1,
+      "community": 0,
+      "score": 3
+    }
+  },
+  {
+    "name": "N2S3",
+    "citation_key": "shahsavariCombiningVolatileNonvolatile2016",
+    "citation": {
+      "entry_type": "inproceedings",
+      "author": "Shahsavari, Mahyar and Falez, Pierre and Boulet, Pierre",
+      "title": "Combining a Volatile and Nonvolatile Memristor in Artificial Synapse to Improve Learning in Spiking Neural Networks",
+      "year": "2016",
+      "booktitle": "2016 IEEE/ACM International Symposium on Nanoscale Architectures (NANOARCH)",
+      "publisher": "IEEE",
+      "address": "Beijing, China",
+      "pages": "67--72",
+      "doi": "10.1145/2950067.2950090"
+    },
+    "source_url": "https://git.renater.fr/anonscm/git/n2s3/n2s3.git",
+    "sustainability": {
+      "freshness": 0,
+      "documentation": 2,
+      "community": 2,
+      "score": 4
+    }
+  },
+  {
+    "name": "Nengo",
+    "citation_key": "bekolayNengoPythonTool2014",
+    "citation": {
+      "entry_type": "article",
+      "author": "Bekolay, Trevor and Bergstra, James and Hunsberger, Eric and DeWolf, Travis and Stewart, Terrence C. and Rasmussen, Daniel and Choo, Xuan and Voelker, Aaron Russell and Eliasmith, Chris",
+      "title": "Nengo: A Python Tool for Building Large-Scale Functional Brain Models",
+      "year": "2014",
+      "journal": "Frontiers in Neuroinformatics",
+      "volume": "7",
+      "pages": "nil",
+      "doi": "10.3389/fninf.2013.00048"
+    },
+    "source_url": "https://github.com/nengo/nengo",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "NengoDL",
+    "citation_key": "rasmussenNengoDLCombiningDeep2019",
+    "citation": {
+      "entry_type": "misc",
+      "author": "Rasmussen, Daniel",
+      "title": "NengoDL: Combining Deep Learning and Neuromorphic Modelling Methods",
+      "year": "2019",
+      "publisher": "arXiv",
+      "number": "arXiv:1805.11144"
+    },
+    "source_url": "https://github.com/nengo/nengo-dl",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "NEST GPU",
+    "citation_key": "golosioFastSimulationsHighlyConnected2021",
+    "citation": {
+      "entry_type": "article",
+      "author": "Golosio, Bruno and Tiddia, Gianmarco and De Luca, Chiara and Pastorelli, Elena and Simula, Francesco and Paolucci, Pier Stanislao",
+      "title": "Fast Simulations of Highly-Connected Spiking Cortical Models Using GPUs",
+      "year": "2021",
+      "journal": "Frontiers in Computational Neuroscience",
+      "volume": "15",
+      "pages": "627620",
+      "doi": "10.3389/fncom.2021.627620"
+    },
+    "source_url": "https://github.com/nest/nest-gpu",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "NEST",
+    "citation_key": "diesmannNESTEnvironmentNeural2002",
+    "citation": {
+      "entry_type": "misc",
+      "author": "Diesmann, Markus and Gewaltig, Marc-Oliver",
+      "title": "NEST: An Environment for Neural Systems Simulations",
+      "year": "2002"
+    },
+    "source_url": "https://github.com/nest/nest-simulator",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 1,
+      "score": 5
+    }
+  },
+  {
+    "name": "Neuron",
+    "citation_key": "carnevaleNEURONBook2006",
+    "citation": {
+      "entry_type": "book",
+      "author": "Carnevale, Nicholas T. and Hines, Michael L.",
+      "title": "The NEURON Book",
+      "year": "2006",
+      "publisher": "Cambridge University Press",
+      "address": "Cambridge, United Kingdom",
+      "doi": "10.1017/CBO9780511541612"
+    },
+    "source_url": "https://github.com/neuronsimulator/nrn",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "NeuroPack",
+    "citation_key": "huangNeuroPackAlgorithmLevelPythonBased2022",
+    "citation": {
+      "entry_type": "article",
+      "author": "Huang, Jinqi and Stathopoulos, Spyros and Serb, Alexantrou and Prodromakis, Themis",
+      "title": "NeuroPack: An Algorithm-Level Python-Based Simulator for Memristor-Empowered Neuro-Inspired Computing",
+      "year": "2022",
+      "journal": "Frontiers in Nanotechnology",
+      "volume": "4",
+      "pages": "851856",
+      "doi": "10.3389/fnano.2022.851856"
+    },
+    "source_url": "https://github.com/hjq310/NeuroPack",
+    "sustainability": {
+      "freshness": 1,
+      "documentation": 1,
+      "community": 0,
+      "score": 2
+    }
+  },
+  {
+    "name": "NEUTRAMS",
+    "citation_key": "jiNEUTRAMSNeuralNetwork2016",
+    "citation": {
+      "entry_type": "inproceedings",
+      "author": "Ji, Yu and Zhang, YouHui and Li, ShuangChen and Chi, Ping and Jiang, CiHang and Qu, Peng and Xie, Yuan and Chen, WenGuang",
+      "title": "NEUTRAMS: Neural Network Transformation and Co-Design under Neuromorphic Hardware Constraints",
+      "year": "2016",
+      "booktitle": "The 49th Annual IEEE/ACM International Symposium on Microarchitecture",
+      "publisher": "IEEE Press",
+      "address": "Taipei, Taiwan",
+      "pages": "1--13"
+    },
+    "source_url": "https://github.com/hoangt/neutrams",
+    "sustainability": {
+      "freshness": 0,
+      "documentation": 0,
+      "community": 0,
+      "score": 0
+    }
+  },
+  {
+    "name": "Norse",
+    "citation_key": "pehleNorseDeepLearning2021",
+    "citation": {
+      "entry_type": "misc",
+      "author": "Pehle, Christian-Gernot and Pedersen, Jens Egholm",
+      "title": "Norse - A Deep Learning Library for Spiking Neural Networks",
+      "year": "2021",
+      "doi": "10.5281/ZENODO.4422025",
+      "howpublished": "Zenodo"
+    },
+    "source_url": "https://github.com/norse/norse",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "PymoNNto",
+    "citation_key": "viethPymoNNtoFlexibleModular2021",
+    "citation": {
+      "entry_type": "article",
+      "author": "Vieth, Marius and St{\\\"o}ber, Tristan M. and Triesch, Jochen",
+      "title": "PymoNNto: A Flexible Modular Toolbox for Designing Brain-Inspired Neural Networks",
+      "year": "2021",
+      "journal": "Frontiers in Neuroinformatics",
+      "volume": "15",
+      "pages": "715131",
+      "doi": "10.3389/fninf.2021.715131"
+    },
+    "source_url": "https://github.com/trieschlab/PymoNNto",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 1,
+      "score": 5
+    }
+  },
+  {
+    "name": "PymoNNtorch",
+    "citation_key": "viethAcceleratingSpikingNeural2024",
+    "citation": {
+      "entry_type": "article",
+      "author": "Vieth, Marius and Rahimi, Ali and Gorgan Mohammadi, Ashena and Triesch, Jochen and Ganjtabesh, Mohammad",
+      "title": "Accelerating Spiking Neural Network Simulations with PymoNNto and PymoNNtorch",
+      "year": "2024",
+      "journal": "Frontiers in Neuroinformatics",
+      "volume": "18",
+      "pages": "1331220",
+      "doi": "10.3389/fninf.2024.1331220"
+    },
+    "source_url": "https://github.com/cnrl/PymoNNtorch",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 1,
+      "score": 5
+    }
+  },
+  {
+    "name": "PySNN",
+    "citation_key": "bullerPySNNSpikingNeural2019",
+    "citation": {
+      "entry_type": "misc",
+      "author": "B{\\\"u}ller, Bas and Huizerd",
+      "title": "PySNN: Spiking Neural Network (SNN) Framework",
+      "year": "2019"
+    },
+    "source_url": "https://github.com/BasBuller/PySNN",
+    "sustainability": {
+      "freshness": 0,
+      "documentation": 2,
+      "community": 1,
+      "score": 3
+    }
+  },
+  {
+    "name": "RANC",
+    "citation_key": "mackRANCReconfigurableArchitecture2021",
+    "citation": {
+      "entry_type": "article",
+      "author": "Mack, Joshua and Purdy, Ruben and Rockowitz, Kris and Inouye, Michael and Richter, Edward and Valancius, Spencer and Kumbhare, Nirmal and Hassan, Md Sahil and Fair, Kaitlin and Mixter, John and Akoglu, Ali",
+      "title": "RANC: Reconfigurable Architecture for Neuromorphic Computing",
+      "year": "2021",
+      "journal": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "volume": "40",
+      "number": "11",
+      "pages": "2265--2278",
+      "doi": "10.1109/TCAD.2020.3038151"
+    },
+    "source_url": "https://github.com/UA-RCL/RANC",
+    "sustainability": {
+      "freshness": 1,
+      "documentation": 0,
+      "community": 1,
+      "score": 2
+    }
+  },
+  {
+    "name": "RAVSim",
+    "citation_key": "sanaullahEvaluationSpikingNeural2023",
+    "citation": {
+      "entry_type": "article",
+      "author": "Sanaullah and Koravuna, Shamini and R{\\\"u}ckert, Ulrich and Jungeblut, Thorsten",
+      "title": "Evaluation of Spiking Neural Nets-Based Image Classification Using the Runtime Simulator RAVSim",
+      "year": "2023",
+      "journal": "International Journal of Neural Systems",
+      "volume": "33",
+      "number": "09",
+      "pages": "2350044",
+      "doi": "10.1142/S0129065723500442"
+    },
+    "source_url": "https://github.com/Rao-Sanaullah/RAVSim",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 0,
+      "score": 4
+    }
+  },
+  {
+    "name": "SaRNN",
+    "citation_key": "dutsonSpikeBasedAnytimePerception2023",
+    "citation": {
+      "entry_type": "inproceedings",
+      "author": "Dutson, Matthew and Li, Yin and Gupta, Mohit",
+      "title": "Spike-Based Anytime Perception",
+      "year": "2023",
+      "booktitle": "2023 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+      "publisher": "IEEE",
+      "address": "Waikoloa, HI, USA",
+      "pages": "5283--5293",
+      "doi": "10.1109/WACV56688.2023.00526"
+    },
+    "source_url": "https://github.com/WISION-Lab/sarnn",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 0,
+      "community": 0,
+      "score": 2
+    }
+  },
+  {
+    "name": "SINABS",
+    "citation_key": "yaoSpikebasedDynamicComputing2024",
+    "citation": {
+      "entry_type": "article",
+      "author": "Yao, Man and Richter, Ole and Zhao, Guangshe and Qiao, Ning and Xing, Yannan and Wang, Dingheng and Hu, Tianxiang and Fang, Wei and Demirci, Tugba and De Marchi, Michele and Deng, Lei and Yan, Tianyi and Nielsen, Carsten and Sheik, Sadique and Wu, Chenxi and Tian, Yonghong and Xu, Bo and Li, Guoqi",
+      "title": "Spike-Based Dynamic Computing with Asynchronous Sensing-Computing Neuromorphic Chip",
+      "year": "2024",
+      "journal": "Nature Communications",
+      "volume": "15",
+      "number": "1",
+      "pages": "4464",
+      "doi": "10.1038/s41467-024-47811-6"
+    },
+    "source_url": "https://github.com/synsense/sinabs",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "SNNToolbox",
+    "citation_key": "rueckauerConversionContinuousValuedDeep2017",
+    "citation": {
+      "entry_type": "article",
+      "author": "Rueckauer, Bodo and Lungu, Iulia-Alexandra and Hu, Yuhuang and Pfeiffer, Michael and Liu, Shih-Chii",
+      "title": "Conversion of Continuous-Valued Deep Networks to Efficient Event-Driven Networks for Image Classification",
+      "year": "2017",
+      "journal": "Frontiers in Neuroscience",
+      "volume": "11",
+      "pages": "682",
+      "doi": "10.3389/fnins.2017.00682"
+    },
+    "source_url": "https://github.com/NeuromorphicProcessorProject/snn_toolbox",
+    "sustainability": {
+      "freshness": 1,
+      "documentation": 2,
+      "community": 2,
+      "score": 5
+    }
+  },
+  {
+    "name": "snnTorch",
+    "citation_key": "eshraghianTrainingSpikingNeural2023",
+    "citation": {
+      "entry_type": "article",
+      "author": "Eshraghian, Jason K. and Ward, Max and Neftci, Emre O. and Wang, Xinxin and Lenz, Gregor and Dwivedi, Girish and Bennamoun, Mohammed and Jeong, Doo Seok and Lu, Wei D.",
+      "title": "Training Spiking Neural Networks Using Lessons From Deep Learning",
+      "year": "2023",
+      "journal": "Proceedings of the IEEE",
+      "volume": "111",
+      "number": "9",
+      "pages": "1016--1054",
+      "doi": "10.1109/JPROC.2023.3308088"
+    },
+    "source_url": "https://github.com/jeshraghian/snntorch",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "SPAIC",
+    "citation_key": "hongSPAICSpikeBasedArtificial2024",
+    "citation": {
+      "entry_type": "article",
+      "author": "Hong, Chaofei and Yuan, Mengwen and Zhang, Mengxiao and Wang, Xiao and Zhang, Chengjun and Wang, Jiaxin and Pan, Gang and Tang, Huajin",
+      "title": "SPAIC: A Spike-Based Artificial Intelligence Computing Framework",
+      "year": "2024",
+      "journal": "IEEE Computational Intelligence Magazine",
+      "volume": "19",
+      "number": "1",
+      "pages": "51--65",
+      "doi": "10.1109/MCI.2023.3327842"
+    },
+    "source_url": "https://github.com/zju-bmi-lab/SPAIC",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 1,
+      "score": 5
+    }
+  },
+  {
+    "name": "SPIKE",
+    "citation_key": "ahmadSpikeGPUOptimised2018",
+    "citation": {
+      "entry_type": "misc",
+      "author": "Ahmad, Nasir and Isbister, James B. and Smithe, Toby St. Clere and Stringer, Simon M.",
+      "title": "Spike: A GPU Optimised Spiking Neural Network Simulator",
+      "year": "2018",
+      "doi": "10.1101/461160"
+    },
+    "source_url": "https://github.com/OFTNAI/Spike",
+    "sustainability": {
+      "freshness": 0,
+      "documentation": 2,
+      "community": 1,
+      "score": 3
+    }
+  },
+  {
+    "name": "SpikingJelly",
+    "citation_key": "fangSpikingJellyOpensourceMachine2023",
+    "citation": {
+      "entry_type": "article",
+      "author": "Fang, Wei and Chen, Yanqi and Ding, Jianhao and Yu, Zhaofei and Masquelier, Timoth{\\'e}e and Chen, Ding and Huang, Liwei and Zhou, Huihui and Li, Guoqi and Tian, Yonghong",
+      "title": "SpikingJelly: An Open-Source Machine Learning Infrastructure Platform for Spike-Based Intelligence",
+      "year": "2023",
+      "journal": "Science Advances",
+      "volume": "9",
+      "number": "40",
+      "pages": "eadi1480",
+      "doi": "10.1126/sciadv.adi1480"
+    },
+    "source_url": "https://github.com/fangwei123456/spikingjelly",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 2,
+      "score": 6
+    }
+  },
+  {
+    "name": "SpykeTorch",
+    "citation_key": "mozafariSpykeTorchEfficientSimulation2019",
+    "citation": {
+      "entry_type": "article",
+      "author": "Mozafari, Milad and Ganjtabesh, Mohammad and Nowzari-Dalini, Abbas and Masquelier, Timoth{\\'e}e",
+      "title": "SpykeTorch: Efficient Simulation of Convolutional Spiking Neural Networks With at Most One Spike per Neuron",
+      "year": "2019",
+      "journal": "Frontiers in Neuroscience",
+      "volume": "13",
+      "pages": "625",
+      "doi": "10.3389/fnins.2019.00625"
+    },
+    "source_url": "https://github.com/miladmozafari/SpykeTorch",
+    "sustainability": {
+      "freshness": 1,
+      "documentation": 2,
+      "community": 0,
+      "score": 3
+    }
+  },
+  {
+    "name": "Spyx",
+    "citation_key": "heckelSpyxLibraryJustInTime2024",
+    "citation": {
+      "entry_type": "misc",
+      "author": "Heckel, Kade M. and Nowotny, Thomas",
+      "title": "Spyx: A Library for Just-In-Time Compiled Optimization of Spiking Neural Networks",
+      "year": "2024",
+      "publisher": "arXiv",
+      "doi": "10.48550/ARXIV.2402.18994"
+    },
+    "source_url": "https://github.com/kmheckel/spyx",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 2,
+      "community": 1,
+      "score": 5
+    }
+  },
+  {
+    "name": "SuperNeuro",
+    "citation_key": "dateSuperNeuroFastScalable2023",
+    "citation": {
+      "entry_type": "inproceedings",
+      "author": "Date, Prasanna and Gunaratne, Chathika and R. Kulkarni, Shruti and Patton, Robert and Coletti, Mark and Potok, Thomas",
+      "title": "SuperNeuro: A Fast and Scalable Simulator for Neuromorphic Computing",
+      "year": "2023",
+      "booktitle": "Proceedings of the 2023 International Conference on Neuromorphic Systems",
+      "publisher": "ACM",
+      "address": "Santa Fe NM USA",
+      "pages": "1--4",
+      "doi": "10.1145/3589737.3606000"
+    },
+    "source_url": "https://github.com/ORNL/superneuro",
+    "sustainability": {
+      "freshness": 2,
+      "documentation": 1,
+      "community": 1,
+      "score": 4
+    }
+  }
+]

@@ -1,0 +1,88 @@
+
+% Required Packages: xcolor, colortbl, boottabs, amssymb, rotating
+\definecolor{HeaderGray}{gray}{0.70}
+\definecolor{ColumnGray}{gray}{0.90}
+
+\definecolor{SimGreen}{RGB}{208,230,202}
+\definecolor{ModelYellow}{RGB}{254,239,193}
+\definecolor{LearningOrange}{RGB}{251,223,194}
+\definecolor{HardwareBlue}{RGB}{190,209,246}
+
+\newcolumntype{a}{>{\columncolor{HeaderGray}}l}
+\newcolumntype{e}{>{\columncolor{HeaderGray}}c}
+\newcolumntype{d}{>{\columncolor{ColumnGray}}c}
+\newcolumntype{f}{>{\columncolor{ModelYellow}}c}
+\newcolumntype{g}{>{\columncolor{LearningOrange}}c}
+\newcolumntype{h}{>{\columncolor{HardwareBlue}}c}
+\newcolumntype{i}{>{\columncolor{SimGreen}}l}
+
+\begin{table*}[htbp]
+    \caption{Open-Source SNN Simulator Worksheet}
+    \begin{center}
+    \small
+    \def\arraystretch{0.90}%  1 is the default, change whatever you need
+    % Shades of Gray
+    % \begin{tabular}{@{}|a||c|c|c|c|c||c|c|c||c|c|c|c||d|d|d||e|@{}}
+
+    % Lots of Color
+    \begin{tabular}{@{}|i||f|f|f|f|f||g|g|g||h|h|h|h||d|d|d||e|@{}}
+        \toprule
+        \rowcolor{HeaderGray}
+
+        \multicolumn{1}{|c||}{\textbf{Simulator}} & \begin{turn}{90}\textbf{Bio-Inspired}\end{turn} & \begin{turn}{90}\textbf{Bio-Plausible}\end{turn} & \begin{turn}{90}\textbf{Integrate-and-Fire}\end{turn} & \begin{turn}{90}\textbf{Compartmental}\end{turn} & \begin{turn}{90}\textbf{Equation-Based}\end{turn} & \begin{turn}{90}\textbf{Supervised}\end{turn} & \begin{turn}{90}\textbf{Unsupervised}\end{turn} & \begin{turn}{90}\textbf{Static}\end{turn} & \begin{turn}{90}\textbf{CPU}\end{turn} & \begin{turn}{90}\textbf{GPU}\end{turn} & \begin{turn}{90}\textbf{FPGA}\end{turn} & \begin{turn}{90}\textbf{Neuromorphic}\end{turn} & \begin{turn}{90}\textbf{Freshness}\end{turn} & \begin{turn}{90}\textbf{Documentation}\end{turn} & \begin{turn}{90}\textbf{Community}\end{turn} & \begin{turn}{90}\textbf{Viability Score}\end{turn} \\
+        \midrule
+        \href{https://github.com/ANNarchy/ANNarchy}{ANNarchy}~\hyperref[ANNarchy]{[notes]} & \checkmark & \checkmark & \checkmark &   & \checkmark &   & \checkmark &   & \checkmark & \checkmark &   &   & 2 & 2 & 2 & 6 \\\hline
+        \href{https://github.com/arbor-sim/arbor/}{Arbor}~\hyperref[Arbor]{[notes]} &   &   & \checkmark &   &   &   & \checkmark &   & \checkmark & \checkmark &   &   & 2 & 2 & 2 & 6 \\\hline
+        \href{https://github.com/fzenke/auryn}{Auryn}~\hyperref[Auryn]{[notes]} &   &   & \checkmark &   &   &   & \checkmark &   & \checkmark &   &   &   & 2 & 2 & 1 & 5 \\\hline
+        \href{https://github.com/BindsNET/bindsnet}{BindsNET}~\hyperref[BindsNET]{[notes]} & \checkmark &   & \checkmark &   &   &   & \checkmark & \checkmark & \checkmark & \checkmark &   &   & 2 & 2 & 2 & 6 \\\hline
+        \href{https://github.com/BrainCog-X/Brain-Cog}{BrainCog}~\hyperref[BrainCog]{[notes]} & \checkmark & \checkmark & \checkmark & \checkmark &   & \checkmark & \checkmark &   & \checkmark & \checkmark & \checkmark &   & 2 & 2 & 2 & 6 \\\hline
+        \href{https://github.com/brainpy/BrainPy}{BrainPy}~\hyperref[BrainPy]{[notes]} &   & \checkmark & \checkmark &   &   & \checkmark &   &   & \checkmark & \checkmark &   &   & 2 & 2 & 2 & 6 \\\hline
+        \href{https://briansimulator.org/}{Brian2}~\hyperref[Brian2]{[notes]} &   &   &   & \checkmark & \checkmark &   & \checkmark &   & \checkmark & \checkmark &   &   & 2 & 2 & 2 & 6 \\\hline
+        \href{https://github.com/sagacitysite/brian2_loihi}{Brian2Loihi}~\hyperref[Brian2Loihi]{[notes]} &   &   & \checkmark &   &   &   & \checkmark &   & \checkmark &   &   & \checkmark & 1 & 1 & 1 & 3 \\\hline
+        \href{https://github.com/CRAFT-THU/BSim}{BSim}~\hyperref[BSim]{[notes]} &   &   & \checkmark &   &   &   &   & \checkmark & \checkmark & \checkmark &   &   & 0 & 0 & 1 & 1 \\\hline
+        \href{https://github.com/UCI-CARL/CARLsim6}{CARLsim}~\hyperref[CARLsim]{[notes]} & \checkmark &   & \checkmark &   &   & \checkmark & \checkmark &   & \checkmark & \checkmark &   &   & 2 & 2 & 2 & 6 \\\hline
+        \href{https://github.com/tudelft/cuSNN}{cuSNN}~\hyperref[cuSNN]{[notes]} &   &   & \checkmark &   &   &   & \checkmark & \checkmark &   & \checkmark &   &   & 0 & 1 & 1 & 2 \\\hline
+        \href{https://github.com/helq/doryta}{Doryta}~\hyperref[Doryta]{[notes]} &   &   & \checkmark &   &   &   &   & \checkmark & \checkmark &   &   &   & 1 & 1 & 0 & 2 \\\hline
+        \href{https://github.com/EduardoRosLab/edlut}{EDLUT}~\hyperref[EDLUT]{[notes]} & \checkmark & \checkmark & \checkmark &   &   &   & \checkmark & \checkmark & \checkmark & \checkmark &   &   & 2 & 0 & 1 & 3 \\\hline
+        \href{https://github.com/emer/emergent}{Emergent}~\hyperref[Emergent]{[notes]} &   &   &   &   &   &   &   &   & \checkmark & \checkmark &   &   & 2 & 2 & 2 & 6 \\\hline
+        \href{https://github.com/yhx/enlarge}{ENLARGE}~\hyperref[ENLARGE]{[notes]} &   &   & \checkmark &   &   &   &   & \checkmark &   & \checkmark &   &   & 1 & 1 & 1 & 3 \\\hline
+        \href{https://github.com/sandialabs/Fugu}{Fugu}~\hyperref[Fugu]{[notes]} &   &   & \checkmark &   &   &   &   & \checkmark & \checkmark &   &   & \checkmark & 2 & 2 & 1 & 5 \\\hline
+        \href{https://github.com/genesis-sim/genesis-2.4}{Genesis}~\hyperref[Genesis]{[notes]} &   & \checkmark &   & \checkmark &   &   & \checkmark &   & \checkmark &   &   &   & 0 & 2 & 1 & 3 \\\hline
+        \href{https://github.com/genn-team/genn}{GeNN}~\hyperref[GeNN]{[notes]} & \checkmark & \checkmark &   &   & \checkmark &   & \checkmark &   & \checkmark & \checkmark &   &   & 2 & 2 & 2 & 6 \\\hline
+        \href{https://github.com/electronicvisions/jaxsnn}{jaxSNN}~\hyperref[jaxSNN]{[notes]} &   &   & \checkmark &   &   &   &   & \checkmark & \checkmark &   &   & \checkmark & 2 & 2 & 1 & 5 \\\hline
+        \href{https://github.com/lava-nc/lava}{Lava}~\hyperref[Lava]{[notes]} &   &   & \checkmark &   &   &   & \checkmark &   & \checkmark &   &   & \checkmark & 2 & 2 & 2 & 6 \\\hline
+        \href{https://github.com/YLab-UChicago/Memristor-Spikelearn}{Memristor-Spikelearn}~\hyperref[Memristor-Spikelearn]{[notes]} &   &   & \checkmark &   &   &   & \checkmark &   & \checkmark &   &   &   & 2 & 1 & 0 & 3 \\\hline
+        \href{https://git.renater.fr/anonscm/git/n2s3/n2s3.git/}{N2S3}~\hyperref[N2S3]{[notes]} &   &   & \checkmark &   &   &   & \checkmark &   & \checkmark &   &   & \checkmark & 0 & 2 & 2 & 4 \\\hline
+        \href{https://www.nengo.ai/}{Nengo}~\hyperref[Nengo]{[notes]} & \checkmark &   & \checkmark &   &   &   & \checkmark &   & \checkmark & \checkmark & \checkmark & \checkmark & 2 & 2 & 2 & 6 \\\hline
+        \href{https://github.com/nengo/nengo-dl}{NengoDL}~\hyperref[NengoDL]{[notes]} & \checkmark &   & \checkmark &   &   & \checkmark &   & \checkmark & \checkmark & \checkmark &   &   & 2 & 2 & 2 & 6 \\\hline
+        \href{https://github.com/nest/nest-simulator}{NEST}~\hyperref[NEST]{[notes]} & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark &   & \checkmark & \checkmark & \checkmark &   &   &   & 2 & 2 & 2 & 6 \\\hline
+        \href{https://github.com/nest/nest-gpu}{NEST GPU}~\hyperref[NEST GPU]{[notes]} &   & \checkmark & \checkmark &   & \checkmark &   & \checkmark &   &   & \checkmark &   &   & 2 & 2 & 1 & 5 \\\hline
+        \href{https://github.com/neuronsimulator/nrn}{Neuron}~\hyperref[Neuron]{[notes]} &   & \checkmark & \checkmark & \checkmark &   &   & \checkmark &   & \checkmark &   &   &   & 2 & 2 & 2 & 6 \\\hline
+        \href{https://github.com/hjq310/NeuroPack}{NeuroPack}~\hyperref[NeuroPack]{[notes]} & \checkmark &   & \checkmark &   &   & \checkmark & \checkmark &   & \checkmark &   &   &   & 1 & 1 & 0 & 2 \\\hline
+        \href{https://github.com/hoangt/neutrams}{NEUTRAMS}~\hyperref[NEUTRAMS]{[notes]} &   &   & \checkmark &   &   &   &   & \checkmark & \checkmark &   &   & \checkmark & 0 & 0 & 0 & 0 \\\hline
+        \href{https://github.com/norse/norse}{Norse}~\hyperref[Norse]{[notes]} & \checkmark &   & \checkmark &   &   &   & \checkmark &   & \checkmark & \checkmark &   & \checkmark & 2 & 2 & 2 & 6 \\\hline
+        \href{https://github.com/trieschlab/PymoNNto}{PymoNNto}~\hyperref[PymoNNto]{[notes]} & \checkmark & \checkmark & \checkmark &   &   & \checkmark & \checkmark &   & \checkmark & \checkmark &   &   & 2 & 2 & 1 & 5 \\\hline
+        \href{https://github.com/cnrl/PymoNNtorch}{PymoNNtorch}~\hyperref[PymoNNtorch]{[notes]} & \checkmark & \checkmark & \checkmark &   &   & \checkmark & \checkmark &   & \checkmark & \checkmark &   &   & 2 & 2 & 1 & 5 \\\hline
+        \href{https://github.com/BasBuller/PySNN}{PySNN}~\hyperref[PySNN]{[notes]} &   &   & \checkmark &   &   &   & \checkmark &   & \checkmark & \checkmark &   &   & 0 & 2 & 1 & 3 \\\hline
+        \href{https://github.com/UA-RCL/RANC}{RANC}~\hyperref[RANC]{[notes]} &   &   & \checkmark &   &   & \checkmark &   &   & \checkmark &   & \checkmark &   & 1 & 0 & 1 & 2 \\\hline
+        \href{https://github.com/Rao-Sanaullah/RAVSim}{RAVSim}~\hyperref[RAVSim]{[notes]} &   &   & \checkmark &   &   &   &   &   & \checkmark &   &   &   & 2 & 2 & 0 & 4 \\\hline
+        \href{https://github.com/WISION-Lab/sarnn}{SaRNN}~\hyperref[SaRNN]{[notes]} &   &   & \checkmark &   &   &   &   & \checkmark & \checkmark &   &   & \checkmark & 2 & 0 & 0 & 2 \\\hline
+        \href{https://github.com/synsense/sinabs}{SINABS}~\hyperref[SINABS]{[notes]} &   &   & \checkmark &   &   & \checkmark &   & \checkmark & \checkmark &   &   & \checkmark & 2 & 2 & 2 & 6 \\\hline
+        \href{https://github.com/NeuromorphicProcessorProject/snn_toolbox}{SNNToolbox}~\hyperref[SNNToolbox]{[notes]} &   &   & \checkmark &   &   &   &   & \checkmark & \checkmark &   &   &   & 1 & 2 & 2 & 5 \\\hline
+        \href{https://github.com/jeshraghian/snntorch}{snnTorch}~\hyperref[snnTorch]{[notes]} &   &   & \checkmark &   &   & \checkmark &   &   & \checkmark & \checkmark &   & \checkmark & 2 & 2 & 2 & 6 \\\hline
+        \href{https://github.com/zju-bmi-lab/SPAIC}{SPAIC}~\hyperref[SPAIC]{[notes]} & \checkmark & \checkmark & \checkmark &   &   & \checkmark & \checkmark &   & \checkmark & \checkmark &   &   & 2 & 2 & 1 & 5 \\\hline
+        \href{https://github.com/OFTNAI/Spike}{SPIKE}~\hyperref[SPIKE]{[notes]} &   &   & \checkmark &   &   & \checkmark &   & \checkmark &   & \checkmark &   &   & 0 & 2 & 1 & 3 \\\hline
+        \href{https://github.com/fangwei123456/spikingjelly}{SpikingJelly}~\hyperref[SpikingJelly]{[notes]} &   &   & \checkmark &   &   & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark &   & \checkmark & 2 & 2 & 2 & 6 \\\hline
+        \href{https://github.com/miladmozafari/SpykeTorch}{SpykeTorch}~\hyperref[SpykeTorch]{[notes]} &   &   & \checkmark &   &   &   & \checkmark &   & \checkmark & \checkmark &   &   & 1 & 2 & 0 & 3 \\\hline
+        \href{https://github.com/kmheckel/spyx}{Spyx}~\hyperref[Spyx]{[notes]} &   &   & \checkmark &   &   & \checkmark &   &   &   & \checkmark &   & \checkmark & 2 & 2 & 1 & 5 \\\hline
+        \href{https://github.com/ORNL/superneuro}{SuperNeuro}~\hyperref[SuperNeuro]{[notes]} &   &   & \checkmark &   &   &   & \checkmark &   & \checkmark & \checkmark &   &   & 2 & 1 & 1 & 4 \\\hline
+
+        \bottomrule
+        \rowcolor{HeaderGray}
+        &  \multicolumn{5}{c}{\textbf{Neuron Model}} & \multicolumn{3}{c}{\textbf{Learning}} & \multicolumn{4}{c}{\textbf{Hardware}} & \multicolumn{4}{c}{\textbf{Viability}} \\
+        \rowcolor{HeaderGray}
+        &  \multicolumn{5}{c}{\textbf{Family}} & \multicolumn{3}{c}{\textbf{Method}} & \multicolumn{4}{c}{\textbf{Support}} & \multicolumn{4}{c}{\textbf{Scorecard}} \\
+    \end{tabular}
+    \label{simWorksheet}
+    \end{center}
+\end{table*}

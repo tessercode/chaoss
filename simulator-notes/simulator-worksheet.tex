@@ -1,0 +1,55 @@
+\documentclass[portrait, 11pt]{article}
+
+\usepackage[portrait, margin=1in, top=0.75in, bottom=0.75in]{geometry}
+\usepackage{xcolor, colortbl}
+\usepackage{booktabs}
+\usepackage{amssymb}
+\usepackage{rotating}
+\usepackage[most]{tcolorbox}
+\usepackage{hyperref}
+\usepackage{parskip}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=blue,
+    citecolor=black,
+    pdftitle={SNN Simulator Worksheet and Research Notes},
+}
+
+\urlstyle{same}
+
+\title{SNN Simulator Worksheet and Research Notes}
+\author{Lucas S Hindman \and Kurtis D Cantley}
+\date{}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+
+\bigskip
+\noindent
+This document provides a capability summary worksheet for the open-source spiking neural
+network (SNN) simulators surveyed in \emph{Finding Order in CHAOSS}, followed by
+detailed research notes for each simulator. Each entry in the worksheet links to its
+corresponding notes section via the \textbf{[notes]} reference. 
+
+\clearpage
+
+% -----------------------------------------------------------------------
+% Worksheet (landscape fits naturally since the document is landscape)
+% -----------------------------------------------------------------------
+\input{simulator_selection_worksheet}
+
+\clearpage
+
+% -----------------------------------------------------------------------
+% Per-simulator research notes
+% -----------------------------------------------------------------------
+\section*{Simulator Research Notes}
+
+\input{simulator-notes}
+
+\end{document}
