@@ -27,6 +27,8 @@ Feature data in JSON format for programmatic use.
 |------|-------------|
 | `simulator-data/simulator-worksheet-data.json` | Feature matrix: one entry per simulator with feature flags and sustainability scores |
 | `simulator-data/simulator-table-data.json` | Simulator inventory: names, repository URLs, proposing paper citations, and sustainability scores |
+| `simulator-data/candidate-frameworks.json` | Candidate SNN frameworks identified during literature screening, prior to final inclusion/exclusion decisions |
+| `simulator-data/baseline-corpus.json` | Baseline corpus of papers produced by the literature search, before screening and filtering |
 
 ### Methodology Artifacts
 

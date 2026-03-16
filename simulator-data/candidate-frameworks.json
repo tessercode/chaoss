@@ -1,0 +1,2074 @@
+[
+  {
+    "Candidate Framework": "Agile Condor",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Air WASP",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "AlexNet",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Altera Quartus II",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Amygdala ",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://sourceforge.net/projects/amygdala/",
+    "Reference": "M. Groover and R. Koch, \u201cAmygdala-a spiking neural network library,\u201d SourceForge,\u201d User Manual, April 2005, version 0.4.",
+    "Released or Last Updated (year)": "2005"
+  },
+  {
+    "Candidate Framework": "ANN2SNN",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "ANNarchy",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/ANNarchy/ANNarchy",
+    "Reference": "Vitay, J., Dinkelbach, H., and Hamker, F. (2015). Annarchy: a code generation approach to neural simulations on parallel hardware. Front. Neuroinform. 9:19 doi: 10.3389/fninf.2015.00019",
+    "Released or Last Updated (year)": "2024"
+  },
+  {
+    "Candidate Framework": "ANSWER",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Ansys HFSS",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Arbor",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/arbor-sim/arbor/",
+    "Reference": "Akar, N. A. et al. Arbor Library v0.8. https://doi.org/10.5281/ ZENODO.7323982 (2022).",
+    "Released or Last Updated (year)": "2022"
+  },
+  {
+    "Candidate Framework": "ASIE",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Z.Kangetal.,\u201cASIE:AnasynchronousSNNinferenceengineforAER events processing,\u201d ACM J. Emerg. Technol. Comput. Syst., vol. 16, no. 4, pp. 1\u201322, 2020",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "ATHENA",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "M. Plagge et al. 2022. ATHENA: Enabling Codesign for Next-Generation AI/ML Architectures. In ICRC. 13\u201323. Architectures. In ICRC. 13\u201323.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Auryn",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/fzenke/auryn",
+    "Reference": "F. Zenke and W. Gerstner, \u201cLimits to high-speed simulations of spiking neural networks using general-purpose computers,\u201d Frontiers in Neuroinformatics, vol. 8, 2014.",
+    "Released or Last Updated (year)": "2023"
+  },
+  {
+    "Candidate Framework": "BAF (Bio-inspired Agent Framework)",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Bambu HLS",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "BindsNET",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/BindsNET/bindsnet",
+    "Reference": "Hazan H, Saunders D J, Khan H, Patel D, Sanghavi D T, Siegelmann H T and Kozma R 2018 BindsNET: a machine  learning-oriented spiking neural networks library in Python Front. Neuroinform. 12 1\u201318",
+    "Released or Last Updated (year)": "2018"
+  },
+  {
+    "Candidate Framework": "BING (Binarized Normed Gradients)",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Biological Neural Networks (BNNs) Toolbox for MATLAB",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/amirsaffari/biological-neural-networks-toolbox",
+    "Reference": "Alamdari A S. Biological Neural Networks (BNNs) Toolbox for MATLAB: User Guide. General Public License, 2004",
+    "Released or Last Updated (year)": "2004"
+  },
+  {
+    "Candidate Framework": "Blue Brain Project",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Markram H. The blue brain project. Nature Rev Neurosci, 2006, 7(2): 153\u2013160",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "BMTK (Brain Modeling Toolkit)",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Toolkit",
+    "Source Code": "https://github.com/AllenInstitute/bmtk",
+    "Reference": "Dai, Kael, et al. \"Brain Modeling ToolKit: An open source software suite for multiscale modeling of brain circuits.\" PLOS Computational Biology 16.11 (2020): e1008386",
+    "Released or Last Updated (year)": "2020"
+  },
+  {
+    "Candidate Framework": "Booksim",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://github.com/booksim/booksim2",
+    "Reference": "Nan Jiang, Daniel U. Becker, George Michelogiannakis, James Balfour, Brian Towles, John Kim and William J. Dally. A Detailed and Flexible Cycle-Accurate Network-on-Chip Simulator. In Proceedings of the 2013 IEEE International Symposium on Performance Analysis of Systems and Software, 2013.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "BrainCog",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/BrainCog-X/Brain-Cog",
+    "Reference": "Y. Zeng et al., \u201cBrainCog: A spiking neural network based Brain- Inspired cognitive intelligence engine for Brain-Inspired AI and brain simulation,\u201d 2022, arXiv:2207.08533.",
+    "Released or Last Updated (year)": "2022"
+  },
+  {
+    "Candidate Framework": "Brainlab",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "SNN Software Toolkit",
+    "Source Code": "https://www.interstice.com/~drewes/brain/brainlab.html",
+    "Reference": "Drewes, Rich et al. \u201cBrainlab: A Python Toolkit to Aid in the Design, Simulation, and Analysis of Spiking Neural Networks with the NeoCortical Simulator.\u201d Frontiers in neuroinformatics vol. 3 16. 27 May. 2009, doi:10.3389/neuro.11.016.2009",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "BrainPy",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/brainpy/BrainPy",
+    "Reference": "Chaoming Wang, Tianqiu Zhang, Xiaoyu Chen, Sichao He, Shangyang Li, Si Wu (2023) BrainPy, a flexible, integrative, efficient, and extensible framework for general-purpose brain dynamics programming eLife 12:e86365 https://doi.org/10.7554/eLife.86365",
+    "Released or Last Updated (year)": "2023"
+  },
+  {
+    "Candidate Framework": "BrainScaleS",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Brian",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://briansimulator.org/",
+    "Reference": "M. Stimberg, R. Brette, D.F. Goodman, Brian 2, an intuitive and efficient neural simulator, Elife 8 (2019).",
+    "Released or Last Updated (year)": "2019"
+  },
+  {
+    "Candidate Framework": "Brian Hears",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Library",
+    "Source Code": "https://github.com/brian-team/brian2hears",
+    "Reference": "Fontaine, Bertrand, et al. \u201cBrian Hears: Online Auditory Processing Using Vectorization Over Channels.\u201d Frontiers in Neuroinformatics, vol. 5, 2011. DOI.org (Crossref), https://doi.org/10.3389/fninf.2011.00009.",
+    "Released or Last Updated (year)": "2011"
+  },
+  {
+    "Candidate Framework": "Brian2CUDA",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Library",
+    "Source Code": "https://github.com/brian-team/brian2cuda",
+    "Reference": "Alevi, Denis, et al. \u201cBrian2CUDA: Flexible and Efficient Simulation of Spiking Neural Network Models on GPUs.\u201d Frontiers in Neuroinformatics, vol. 16, Oct. 2022, p. 883700. DOI.org (Crossref), https://doi.org/10.3389/fninf.2022.883700.",
+    "Released or Last Updated (year)": "2022"
+  },
+  {
+    "Candidate Framework": "Brian2GeNN",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Mapping Tool / Compiler",
+    "Source Code": "https://github.com/brian-team/brian2genn",
+    "Reference": "Stimberg, Marcel, et al. \u201cBrian2GeNN: Accelerating Spiking Neural Network Simulations with Graphics Hardware.\u201d Scientific Reports, vol. 10, no. 1, Jan. 2020, p. 410. DOI.org (Crossref), https://doi.org/10.1038/s41598-019-54957-7.",
+    "Released or Last Updated (year)": "2020"
+  },
+  {
+    "Candidate Framework": "Brian2Loihi",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/sagacitysite/brian2_loihi",
+    "Reference": "Michaelis, Carlo, et al. \u201cBrian2Loihi: An Emulator for the Neuromorphic Chip Loihi Using the Spiking Neural Network Simulator Brian.\u201d Frontiers in Neuroinformatics, vol. 16, Nov. 2022, p. 1015624. DOI.org (Crossref), https://doi.org/10.3389/fninf.2022.1015624.",
+    "Released or Last Updated (year)": "2022"
+  },
+  {
+    "Candidate Framework": "BrianScaleS-ESS",
+    "Item Type": "Closed Source Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://electronicvisions.github.io/hbp-sp9-guidebook/pm/ess.html",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "BSim",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/CRAFT-THU/BSim",
+    "Reference": "Qu, Peng, et al. \"High performance simulation of spiking neural network on gpgpus.\" IEEE Transactions on Parallel and Distributed Systems 31.11 (2020): 2510-2523.",
+    "Released or Last Updated (year)": "2020"
+  },
+  {
+    "Candidate Framework": "Cadence",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Cadence Spectre",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Cadence spectre",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Cadence SpectreS",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Cadence Virtuoso",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Caffe",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "CaffeNet",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "CanMore",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Zhang, Jian, et al. \u201cANAS: Asynchronous Neuromorphic Hardware Architecture Search Based on a System-Level Simulator.\u201d 2023 60th ACM/IEEE Design Automation Conference (DAC), IEEE, 2023, pp. 1\u20136. DOI.org (Crossref), https://doi.org/10.1109/DAC56929.2023.10247850.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "CARLA",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "A. Dosovitskiy, G. Ros, F. Codevilla, A. Lopez, and V. Koltun, \u201cCARLA: An open urban driving simulator,\u201d in Proceedings of the 1st Annual Conference on Robot Learning, 2017, pp. 1\u201316.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "CARLsim",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/UCI-CARL/CARLsim6",
+    "Reference": "Niedermeier, Lars, et al. \u201cCARLsim 6: An Open Source Library for Large-Scale, Biologically Detailed Spiking Neural Network Simulation.\u201d 2022 International Joint Conference on Neural Networks (IJCNN), IEEE, 2022, pp. 1\u201310. DOI.org (Crossref), https://doi.org/10.1109/IJCNN55064.2022.9892644.",
+    "Released or Last Updated (year)": "2022"
+  },
+  {
+    "Candidate Framework": "Caspian",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Mitchell, J. Parker, et al. \u201cCaspian: A Neuromorphic Development Platform.\u201d Proceedings of the Neuro-Inspired Computational Elements Workshop, ACM, 2020, pp. 1\u20136. DOI.org (Crossref), https://doi.org/10.1145/3381755.3381764.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "CAT (Constraints Aware Training)",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Tang, Zhimin, et al. \u201cConstraints-Aware Training (CAT) to Enable Software-Hardware Co-Design for Memristor-Based Analog Neuromorphic Chip.\u201d 2023 IEEE 24th International Conference on High Performance Switching and Routing (HPSR), IEEE, 2023, pp. 20\u201326. DOI.org (Crossref), https://doi.org/10.1109/HPSR57248.2023.10148030.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "ChampSim",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://github.com/ChampSim/ChampSim",
+    "Reference": "Gober, Nathan, et al. The Championship Simulator: Architectural Simulation for Education and Competition. arXiv:2210.14324, arXiv, 25 Oct. 2022. arXiv.org, http://arxiv.org/abs/2210.14324.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Chronotron",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "CIRCT (Circuit IR Compilers and Tools)",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://github.com/llvm/circt",
+    "Reference": "C. Developers, \u201c\u201dCIRCT\u201d / Circuit IR Compilers and Tools,\u201d 2020. [Online]. Available: https://github.com/llvm/circt",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "CNC (Cognitive Network Controller)",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Lent, Ricardo. \u201cTowards Cognitive Networking Using FPGA-Based Acceleration.\u201d IEEE Journal of Radio Frequency Identification, vol. 5, no. 3, Sept. 2021, pp. 222\u201331. DOI.org (Crossref), https://doi.org/10.1109/JRFID.2021.3076115.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "CNN-TDP",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "CNTK",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://github.com/microsoft/CNTK",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Compass",
+    "Item Type": "Closed Source Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "R. Preissl et al., \"Compass: A scalable simulator for an architecture for cognitive computing,\" SC '12: Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis, Salt Lake City, UT, USA, 2012, pp. 1-11, doi: 10.1109/SC.2012.34.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "CoppeliaSim",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Corelet",
+    "Item Type": "Closed Source Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "CoreNEURON",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Library",
+    "Source Code": "https://github.com/BlueBrain/CoreNeuron",
+    "Reference": "Pramod Kumbhar, Michael Hines, Jeremy Fouriaux, Aleksandr Ovcharenko, James King, Fabien Delalondre and Felix Sch\u00fcrmann. CoreNEURON : An Optimized Compute Engine for the NEURON Simulator (doi.org/10.3389/fninf.2019.00063)",
+    "Released or Last Updated (year)": "2019"
+  },
+  {
+    "Candidate Framework": "CSIM",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "http://www.lsm.tugraz.at/csim/index.html",
+    "Reference": "This package is depricated and has been replaced by the Liquid State Machine",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "CSNN",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "CTXCTL",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "CUDA",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "cuSNN",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/tudelft/cuSNN",
+    "Reference": "Paredes-Valles, Federico, et al. \u201cUnsupervised Learning of a Hierarchical Spiking Neural Network for Optical Flow Estimation: From Events to Global Motion Perception.\u201d IEEE Transactions on Pattern Analysis and Machine Intelligence, vol. 42, no. 8, Aug. 2020, pp. 2051\u201364. DOI.org (Crossref), https://doi.org/10.1109/TPAMI.2019.2903179.",
+    "Released or Last Updated (year)": "2020"
+  },
+  {
+    "Candidate Framework": "CyNAPSE",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "https://github.com/saunak1994/CyNAPSEv11",
+    "Reference": "Saha, Saunak, et al. \u201cAn Adaptive Memory Management Strategy Towards Energy Efficient Machine Inference in Event-Driven Neuromorphic Accelerators.\u201d 2019 IEEE 30th International Conference on Application-Specific Systems, Architectures and Processors (ASAP), IEEE, 2019, pp. 197\u2013205. DOI.org (Crossref), https://doi.org/10.1109/ASAP.2019.000-2.",
+    "Released or Last Updated (year)": "2019"
+  },
+  {
+    "Candidate Framework": "Cypress",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Library",
+    "Source Code": "https://github.com/hbp-unibi/cypress",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "D-Wave",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "DANNA (Dynamic Adaptive Neural Network Array",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Disney, Adam, et al. \u201cDANNA: A Neuromorphic Software Ecosystem.\u201d Biologically Inspired Cognitive Architectures, vol. 17, July 2016, pp. 49\u201356. DOI.org (Crossref), https://doi.org/10.1016/j.bica.2016.07.007.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "DANNA2",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Mitchell, J. Parker, et al. \u201cDANNA 2: Dynamic Adaptive Neural Network Arrays.\u201d Proceedings of the International Conference on Neuromorphic Systems, ACM, 2018, pp. 1\u20136. DOI.org (Crossref), https://doi.org/10.1145/3229884.3229894.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "DEFFE",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Dendrify",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Toolkit",
+    "Source Code": "https://github.com/Poirazi-Lab/dendrify",
+    "Reference": "Pagkalos, Michalis, et al. \u201cIntroducing the Dendrify Framework for Incorporating Dendrites to Spiking Neural Networks.\u201d Nature Communications, vol. 14, no. 1, Jan. 2023, p. 131. DOI.org (Crossref), https://doi.org/10.1038/s41467-022-35747-8.",
+    "Released or Last Updated (year)": "2023"
+  },
+  {
+    "Candidate Framework": "DESCNet",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "dfsynthesizer",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Song, Shihao, et al. \u201cDFSynthesizer: Dataflow-Based Synthesis of Spiking Neural Networks to Neuromorphic Hardware.\u201d ACM Transactions on Embedded Computing Systems, vol. 21, no. 3, May 2022, pp. 1\u201335. DOI.org (Crossref), https://doi.org/10.1145/3479156",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Doryta",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/helq/doryta",
+    "Reference": "Cruz-Camacho, Elkin, et al. \u201cPerformance Evaluation of Spintronic-Based Spiking Neural Networks Using Parallel Discrete-Event Simulation.\u201d ACM Transactions on Modeling and Computer Simulation, Mar. 2024, p. 3649464. DOI.org (Crossref), https://doi.org/10.1145/3649464.",
+    "Released or Last Updated (year)": "2024"
+  },
+  {
+    "Candidate Framework": "DPSNN",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "http://apegate.roma1.infn.it/mediawiki/images/6/62/HBPSummit-DPSNN.pdf",
+    "Reference": "E. Pastorelli, C. Capone, F. Simula, P. Del Giudice, M. Mattia, and P. S. Paolucci, \u201cDistributed large scale simulation of synchronour slow-wave / asynchronous awake-like cortical activity,\u201d 2017. Poster presented at: 5th Annual Human Brain Project Summit, 17-20 October 2017, Glasgow. ",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "DRMap",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "E-PyNN",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Zhang, Youhui, et al. \u201cTowards \u2018General Purpose\u2019 Brain-Inspired Computing System.\u201d Tsinghua Science and Technology, vol. 26, no. 5, Oct. 2021, pp. 664\u201373. DOI.org (Crossref), https://doi.org/10.26599/TST.2021.9010010.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "E3NE",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Gerlinghoff, Daniel, et al. \u201cE3NE: An End-to-End Framework for Accelerating Spiking Neural Networks with Emerging Neural Encoding on FPGAs.\u201d IEEE Transactions on Parallel and Distributed Systems, 2021, pp. 1\u20131. DOI.org (Crossref), https://doi.org/10.1109/TPDS.2021.3128945.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Echo State Networks",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Herbert Jaeger, Harald Haas ,Harnessing Nonlinearity: Predicting Chaotic Systems and Saving Energy in Wireless Communication.Science304,78-80(2004).DOI:10.1126/science.1091277",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "EDHA (Event-Driven High Accuracy)",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Mo, Lingfei, et al. \u201cEDHA: Event-Driven High Accurate Simulator for Spike Neural Networks.\u201d Electronics, vol. 10, no. 18, Sept. 2021, p. 2281. DOI.org (Crossref), https://doi.org/10.3390/electronics10182281.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "EDLUT",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/EduardoRosLab/edlut",
+    "Reference": "Naveros, Francisco, et al. \u201cA Spiking Neural Simulator Integrating Event-Driven and Time-Driven Computation Schemes Using Parallel CPU-GPU Co-Processing: A Case Study.\u201d IEEE Transactions on Neural Networks and Learning Systems, vol. 26, no. 7, July 2015, pp. 1567\u201374. DOI.org (Crossref), https://doi.org/10.1109/TNNLS.2014.2345844.",
+    "Released or Last Updated (year)": "2023"
+  },
+  {
+    "Candidate Framework": "Emergent",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/emer/emergent",
+    "Reference": "O\u2019Reilly, Randall C., et al. Computational Cognitive Neuroscience. Online Book, 5th Edition, 2024, https://compcogneuro.org/book.",
+    "Released or Last Updated (year)": "2024"
+  },
+  {
+    "Candidate Framework": "ENLARGE",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/yhx/enlarge",
+    "Reference": "Qu, Peng, et al. \u201cENLARGE: An Efficient SNN Simulation Framework on GPU Clusters.\u201d IEEE Transactions on Parallel and Distributed Systems, vol. 34, no. 9, Sept. 2023, pp. 2529\u201340. DOI.org (Crossref), https://doi.org/10.1109/TPDS.2023.3291825.",
+    "Released or Last Updated (year)": "2023"
+  },
+  {
+    "Candidate Framework": "Enpheeph (fault injection)",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "EO (Evolving Objects)",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "EONS",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Schuman, Catherine D., et al. \u201cEvolutionary Optimization for Neuromorphic Systems.\u201d Proceedings of the Neuro-Inspired Computational Elements Workshop, ACM, 2020, pp. 1\u20139. DOI.org (Crossref), https://doi.org/10.1145/3381755.3381758.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "ESIM",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "Spiking Event Simulator",
+    "Source Code": "https://github.com/uzh-rpg/rpg_esim",
+    "Reference": "Rebecq, Henri, et al. ESIM: An Open Event Camera Simulator.",
+    "Released or Last Updated (year)": "0"
+  },
+  {
+    "Candidate Framework": "eSNN",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "FABLE",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Pang, Meng, et al. \u201cFABLE: A Development and Computing Framework for Brain-Inspired Learning Algorithms.\u201d 2023 International Joint Conference on Neural Networks (IJCNN), IEEE, 2023, pp. 1\u201310. DOI.org (Crossref), https://doi.org/10.1109/IJCNN54540.2023.10192026.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "FACETS (Fast Analog Computer with Emergent Transient States)",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://facets.kip.uni-heidelberg.de/",
+    "Reference": "This project was discontinued in 2010.  However the PyNN software framework was an outcome of this project",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "fACIBiNet (framework for Advanced Computing investigations of Biological Neural microcircuits)",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "FangTianSim",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Wei, Jinsong, et al. \u201cFangTianSim: High-Level Cycle-Accurate Resistive Random-Access Memory-Based Multi-Core Spiking Neural Network Processor Simulator.\u201d Frontiers in Neuroscience, vol. 15, Jan. 2022, p. 806325. DOI.org (Crossref), https://doi.org/10.3389/fnins.2021.806325.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Fast and Deep",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Fast R-CNN",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Firefly",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Fugu",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/sandialabs/Fugu",
+    "Reference": "J. B. Aimone, W. Severa, and C. M. Vineyard, Composing neural algorithms with Fugu, in Proc. Int. Conf. Neuromorphic Systems, Knoxville, TN, USA, 2019, pp. 1\u20138.",
+    "Released or Last Updated (year)": "2019"
+  },
+  {
+    "Candidate Framework": "GAQ-SNN",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Nguyen, Duy-Anh, et al. \u201cGAQ-SNN: A Genetic Algorithm Based Quantization Framework for Deep Spiking Neural Networks.\u201d 2022 International Conference on IC Design and Technology (ICICDT), IEEE, 2022, pp. 93\u201396. DOI.org (Crossref), https://doi.org/10.1109/ICICDT56182.2022.9933070.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Gazebo",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Genesis",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/genesis-sim/genesis-2.4",
+    "Reference": "Bower, James M., and David Beeman. The book of GENESIS: exploring realistic neural models with the GEneral NEural SImulation System. Springer Science & Business Media, 2012.",
+    "Released or Last Updated (year)": "2019"
+  },
+  {
+    "Candidate Framework": "GeNN (GPU Enhanced Neuronal Network)",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/genn-team/genn",
+    "Reference": "Yavuz, Esin, et al. \u201cGeNN: A Code Generation Framework for Accelerated Brain Simulations.\u201d Scientific Reports, vol. 6, no. 1, Jan. 2016, p. 18854. DOI.org (Crossref), https://doi.org/10.1038/srep18854.",
+    "Released or Last Updated (year)": "2016"
+  },
+  {
+    "Candidate Framework": "Glow",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "GPU-SNN",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://ics.uci.edu/~jmoorkan/project/",
+    "Reference": "Nageswaran, Jayram Moorkanikara, et al. \u201cA Configurable Simulation Environment for the Efficient Simulation of Large-Scale Spiking Neural Networks on Graphics Processors.\u201d Neural Networks, vol. 22, no. 5\u20136, July 2009, pp. 791\u2013800. DOI.org (Crossref), https://doi.org/10.1016/j.neunet.2009.06.028.",
+    "Released or Last Updated (year)": "2009"
+  },
+  {
+    "Candidate Framework": "GRADES (Graph-based and RAndom DiscrEte-event Simulator)",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Muzy, Alexandre, et al. \u201cParallel and Pseudorandom Discrete Event System Specification vs. Networks of Spiking Neurons: Formalization and Preliminary Implementation Results.\u201d 2016 International Conference on High Performance Computing & Simulation (HPCS), IEEE, 2016, pp. 925\u201334. DOI.org (Crossref), https://doi.org/10.1109/HPCSim.2016.7568433.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "HAR",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "HRLAnalysis",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "HRLsim",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Minkovich, Kirill, et al. \u201cHRLSim: A High Performance Spiking Neural Network Simulator for GPGPU Clusters.\u201d IEEE Transactions on Neural Networks and Learning Systems, vol. 25, no. 2, Feb. 2014, pp. 316\u201331. DOI.org (Crossref), https://doi.org/10.1109/TNNLS.2013.2276056.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "HSPICE",
+    "Item Type": "Closed Source Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "HTS (HEENS Toolchain Suite)",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "hxtorch.snn",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Hardware Accellerator",
+    "Source Code": "https://github.com/electronicvisions/hxtorch",
+    "Reference": "Spilger, Philipp, et al. \u201cHxtorch.Snn: Machine-Learning-Inspired Spiking Neural Network Modeling on BrainScaleS-2.\u201d Neuro-Inspired Computational Elements Conference, ACM, 2023, pp. 57\u201362. DOI.org (Crossref), https://doi.org/10.1145/3584954.3584993.",
+    "Released or Last Updated (year)": "2023"
+  },
+  {
+    "Candidate Framework": "IBM C2 simulator",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "IBM Neurosynaptic System TrueNorth",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "IBM Neurosynaptic TrueNorth Cores",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "IBM TrueNorth Compass",
+    "Item Type": "Closed Source Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Preissl, Robert, et al. \u201cCompass: A Scalable Simulator for an Architecture for Cognitive Computing.\u201d 2012 International Conference for High Performance Computing, Networking, Storage and Analysis, IEEE, 2012, pp. 1\u201311. DOI.org (Crossref), https://doi.org/10.1109/SC.2012.34.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "INSpirRE ME",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Feldbusch, F., and F. Kaiser. \u201cSimulation of Spiking Neural Nets with INSpiRE ME.\u201d 2005 IEEE International Conference on Systems, Man and Cybernetics, vol. 2, IEEE, 2005, pp. 999\u20131004. DOI.org (Crossref), https://doi.org/10.1109/ICSMC.2005.1571276.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "iSpike",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Library",
+    "Source Code": "https://sourceforge.net/p/ispike/code/HEAD/tree/",
+    "Reference": "Gamez, D., et al. \u201ciSpike: A Spiking Neural Interface for the iCub Robot.\u201d Bioinspiration & Biomimetics, vol. 7, no. 2, June 2012, p. 025008. DOI.org (Crossref), https://doi.org/10.1088/1748-3182/7/2/025008.",
+    "Released or Last Updated (year)": "2012"
+  },
+  {
+    "Candidate Framework": "JADE platform",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://gitlab.com/jade-project",
+    "Reference": "F. Bellifemine, G. Caire, A. Poggi, and G. Rimassa, JADE a White Paper, Teleconitalialab, sep 2003, http://exp.telecomitalialab.com.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "jAER (java AER)",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "jaxSNN",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/electronicvisions/jaxsnn ",
+    "Reference": "M\u00fcller, Eric, et al. \u201cJaxsnn: Event-Driven Gradient Estimation for Analog Neuromorphic Hardware.\u201d 2024 Neuro Inspired Computational Elements Conference (NICE), IEEE, 2024, pp. 1\u20136. DOI.org (Crossref), https://doi.org/10.1109/NICE61972.2024.10548709",
+    "Released or Last Updated (year)": "2024"
+  },
+  {
+    "Candidate Framework": "Jubi",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "JubiTool",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Keras",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://github.com/keras-team/keras",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "KerasSpiking",
+    "Item Type": "Closed Source Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://github.com/nengo/keras-spiking.git",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Lava",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/lava-nc/lava",
+    "Reference": "Intel\u2019s Neuromorphic Computing Lab. Lava: A Software Framework for Neuromorphic Computing. 2021. Available online:https://github.com/lava-nc/lavaa (accessed on 25 March 2022).",
+    "Released or Last Updated (year)": "2021"
+  },
+  {
+    "Candidate Framework": "Lava Bayesian Optimization",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Leabra",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "LEAP (Light Extensible Agent Platform)",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Liquid State Machines",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://github.com/IGITUGraz/LSM",
+    "Reference": "Wolfgang Maass, Thomas Natschl\u00e4ger, Henry Markram; Real-Time Computing Without Stable States: A New Framework for Neural Computation Based on Perturbations. Neural Comput 2002; 14 (11): 2531\u20132560. doi: https://doi.org/10.1162/089976602760407955",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Loihi",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "LTSpice",
+    "Item Type": "Closed Source Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "MATLAB",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "MATLab Simscape",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Memristor-Spikelearn",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/YLab-UChicago/Memristor-Spikelearn",
+    "Reference": "Liu, Yuming, et al. \u201cMemristor-Spikelearn: A Spiking Neural Network Simulator for Studying Synaptic Plasticity under Realistic Device and Circuit Behaviors.\u201d 2023 Design, Automation & Test in Europe Conference & Exhibition (DATE), IEEE, 2023, pp. 1\u20136. DOI.org (Crossref), https://doi.org/10.23919/DATE56975.2023.10136938.",
+    "Released or Last Updated (year)": "2023"
+  },
+  {
+    "Candidate Framework": "mlGeNN",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Mapping Tool / Compiler",
+    "Source Code": "https://github.com/genn-team/ml_genn",
+    "Reference": "Turner, James Paul, et al. \u201cmlGeNN: Accelerating SNN Inference Using GPU-Enabled Neural Networks.\u201d Neuromorphic Computing and Engineering, vol. 2, no. 2, June 2022, p. 024002. DOI.org (Crossref), https://doi.org/10.1088/2634-4386/ac5ac5.",
+    "Released or Last Updated (year)": "2022"
+  },
+  {
+    "Candidate Framework": "MNSIM",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://github.com/thu-nics/MNSIM-2.0",
+    "Reference": "Xia, Lixue, et al. MNSIM: Simulation Platform for Memristor-Based Neuromorphic Computing System. 2016.",
+    "Released or Last Updated (year)": "2016"
+  },
+  {
+    "Candidate Framework": "ModelSim",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "ModelSim RTL",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "MSDSL",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://github.com/sgherbst/msdsl",
+    "Reference": "Herbst, Steven, et al. \u201cAn Open-Source Framework for FPGA Emulation of Analog/Mixed-Signal Integrated Circuit Designs.\u201d IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 41, no. 7, July 2022, pp. 2223\u201336. DOI.org (Crossref), https://doi.org/10.1109/TCAD.2021.3102516.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "MUSIC (MULti-SImulator Coordinator)",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Library",
+    "Source Code": "https://github.com/INCF/MUSIC",
+    "Reference": "Djurfeldt, Mikael, et al. \u201cRun-Time Interoperability Between Neuronal Network Simulators Based on the MUSIC Framework.\u201d Neuroinformatics, vol. 8, no. 1, Mar. 2010, pp. 43\u201360. DOI.org (Crossref), https://doi.org/10.1007/s12021-010-9064-z.",
+    "Released or Last Updated (year)": "2010"
+  },
+  {
+    "Candidate Framework": "N2S3 (Neural Network Scalable Spiking Simulation",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://sourcesup.renater.fr/wiki/n2s3/downloads",
+    "Reference": "Shahsavari, Mahyar, et al. Combining a Volatile and Nonvolatile Memristor in Artificial Synapse to Improve Learning in Spiking Neural Networks.",
+    "Released or Last Updated (year)": "2016"
+  },
+  {
+    "Candidate Framework": "NCPower",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "NCS (NeoCortical Simulator)",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/BrainComputationLab/ncs/tree/master",
+    "Reference": "Drewes, Richard. \u201cBrainlab: A Python Toolkit to Aid in the Design, Simulation, and Analysis of Spiking Neural Networks with the NeoCortical Simulator.\u201d Frontiers in Neuroinformatics, vol. 3, 2009. DOI.org (Crossref), https://doi.org/10.3389/neuro.11.016.2009.",
+    "Released or Last Updated (year)": "2009"
+  },
+  {
+    "Candidate Framework": "NEF (Neural Engineering Framework)",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "NeMo",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/pmediano/NeMo",
+    "Reference": "Fidjeland, Andreas K., et al. \u201cNeMo: A Platform for Neural Modelling of Spiking Neurons Using GPUs.\u201d 2009 20th IEEE International Conference on Application-Specific Systems, Architectures and Processors, IEEE, 2009, pp. 137\u201344. DOI.org (Crossref), https://doi.org/10.1109/ASAP.2009.24.",
+    "Released or Last Updated (year)": "2009"
+  },
+  {
+    "Candidate Framework": "Nengo",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://www.nengo.ai/  https://github.com/nengo/nengo-loihi",
+    "Reference": "Bekolay, Trevor, et al. \u201cNengo: A Python Tool for Building Large-Scale Functional Brain Models.\u201d Frontiers in Neuroinformatics, vol. 7, 2014. DOI.org (Crossref), https://doi.org/10.3389/fninf.2013.00048.",
+    "Released or Last Updated (year)": "2023"
+  },
+  {
+    "Candidate Framework": "NengoDL",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/nengo/nengo-dl",
+    "Reference": "Rasmussen, Daniel. NengoDL: Combining Deep Learning and Neuromorphic Modelling Methods. arXiv:1805.11144, arXiv, 27 Mar. 2019. arXiv.org, http://arxiv.org/abs/1805.11144.",
+    "Released or Last Updated (year)": "2019"
+  },
+  {
+    "Candidate Framework": "NEST (NEural Simulation Tool)",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://www.nest-simulator.org/",
+    "Reference": "Graber, S., et al. NEST 3.8. 3.8, Zenodo, 10 July 2024, doi:10.5281/zenodo.12624784.",
+    "Released or Last Updated (year)": "2024"
+  },
+  {
+    "Candidate Framework": "NEST GPU (aka NeuronGPU)",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/nest/nest-gpu",
+    "Reference": "Golosio, Bruno, et al. \u201cFast Simulations of Highly-Connected Spiking Cortical Models Using GPUs.\u201d Frontiers in Computational Neuroscience, vol. 15, Feb. 2021, p. 627620. DOI.org (Crossref), https://doi.org/10.3389/fncom.2021.627620.",
+    "Released or Last Updated (year)": "2021"
+  },
+  {
+    "Candidate Framework": "NeuroEngine (hardware based simulation)",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "NeuroExplore",
+    "Item Type": "Closed Source Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://www.neuroexplorer.com/purchase/",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Neurogrid",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Benjamin, Ben Varkey, et al. \u201cNeurogrid: A Mixed-Analog-Digital Multichip System for Large-Scale Neural Simulations.\u201d Proceedings of the IEEE, vol. 102, no. 5, May 2014, pp. 699\u2013716. DOI.org (Crossref), https://doi.org/10.1109/JPROC.2014.2313565.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "NeuroML",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Model Description Language",
+    "Source Code": "https://docs.neuroml.org/Userdocs/GetNeuroML.html",
+    "Reference": "Gleeson, Padraig, et al. \u201cNeuroML: A Language for Describing Data Driven Models of Neurons and Networks with a High Degree of Biological Detail.\u201d PLoS Computational Biology, edited by Karl J. Friston, vol. 6, no. 6, June 2010, p. e1000815. DOI.org (Crossref), https://doi.org/10.1371/journal.pcbi.1000815.",
+    "Released or Last Updated (year)": "2010"
+  },
+  {
+    "Candidate Framework": "Neuron",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/neuronsimulator/nrn",
+    "Reference": "Carnevale, Nicholas T., and Michael L. Hines. The NEURON Book. 1st ed., Cambridge University Press, 2006. DOI.org (Crossref), https://doi.org/10.1017/CBO9780511541612.",
+    "Released or Last Updated (year)": "2024"
+  },
+  {
+    "Candidate Framework": "NeuroPack",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/hjq310/NeuroPack",
+    "Reference": "Huang, Jinqi, et al. \u201cNeuroPack: An Algorithm-Level Python-Based Simulator for Memristor-Empowered Neuro-Inspired Computing.\u201d Frontiers in Nanotechnology, vol. 4, Apr. 2022, p. 851856. DOI.org (Crossref), https://doi.org/10.3389/fnano.2022.851856.",
+    "Released or Last Updated (year)": "2022"
+  },
+  {
+    "Candidate Framework": "Neurorobotics Platform",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://www.neurorobotics.net/",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "NeuroSim",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "P. -Y. Chen, X. Peng and S. Yu, \"NeuroSim: A Circuit-Level Macro Model for Benchmarking Neuro-Inspired Architectures in Online Learning,\" in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 37, no. 12, pp. 3067-3080, Dec. 2018, doi: 10.1109/TCAD.2018.2789723. keywords: {Computer architecture;Microprocessors;Integrated circuit modeling;Artificial neural networks;Algorithm design and analysis;Neuromorphics;Emerging nonvolatile memory (eNVM);machine learning;neural network (NN);neuromorphic computing;offline classification;online learning;synaptic devices},",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "NeuroTools",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Toolkit",
+    "Source Code": "https://github.com/NeuralEnsemble/NeuroTools",
+    "Reference": "",
+    "Released or Last Updated (year)": "0"
+  },
+  {
+    "Candidate Framework": "NeuroXplorer",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Balaji, Adarsha, et al. \u201cNeuroXplorer 1.0: An Extensible Framework for Architectural Exploration with Spiking Neural Networks.\u201d International Conference on Neuromorphic Systems 2021, ACM, 2021, pp. 1\u20139. DOI.org (Crossref), https://doi.org/10.1145/3477145.3477156.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "NEUTRAMS",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/hoangt/neutrams",
+    "Reference": "Ji, Yu, et al. \u201cNEUTRAMS: Neural Network Transformation and Co-Design under Neuromorphic Hardware Constraints.\u201d 2016 49th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO), IEEE, 2016, pp. 1\u201313. DOI.org (Crossref), https://doi.org/10.1109/MICRO.2016.7783724.",
+    "Released or Last Updated (year)": "2016"
+  },
+  {
+    "Candidate Framework": "NEVESIM",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/IGITUGraz/nevesim",
+    "Reference": "Pecevski, Dejan, et al. \u201cNEVESIM: Event-Driven Neural Simulation Framework with a Python Interface.\u201d Frontiers in Neuroinformatics, vol. 8, Aug. 2014. DOI.org (Crossref), https://doi.org/10.3389/fninf.2014.00070.",
+    "Released or Last Updated (year)": "2014"
+  },
+  {
+    "Candidate Framework": "NineML",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "SNN Model Description Language",
+    "Source Code": "https://github.com/INCF/nineml-spec",
+    "Reference": "Raikov, I. et al. NineML: the network interchange for neuroscience modeling language. BMC Neuroscience 12, P330 (2011).",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "NM (Neuron Machine)",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "NODUS",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Norse",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://norse.github.io/norse/",
+    "Reference": "Pehle, C.-G.and J. E. Pedersen. Norse - A Deep Learning Library for Spiking Neural Networks. 0.0.5, Zenodo, 6 Jan. 2021, doi:10.5281/zenodo.4422025.",
+    "Released or Last Updated (year)": "2021"
+  },
+  {
+    "Candidate Framework": "NSCS (Neurosynaptic Simulator for Corelet System)",
+    "Item Type": "Closed Source Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "NVMain",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "NVSim",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "NxSDK",
+    "Item Type": "Closed Source Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "NxTF",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Rueckauer, Bodo, et al. \u201cConversion of Continuous-Valued Deep Networks to Efficient Event-Driven Networks for Image Classification.\u201d Frontiers in Neuroscience, vol. 11, Dec. 2017, p. 682. DOI.org (Crossref), https://doi.org/10.3389/fnins.2017.00682.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "OpenRAM",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "OpenROAD flow",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "PACMAN",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Parallel Genesis for Large-scale Modeling",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Parallel NeuroSys",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://www.cs.usfca.edu/~peter/neurosys/",
+    "Reference": "Pacheco, Peter, et al. \u201cPARALLEL NEUROSYS: A System for the Simulation of Very Large Networks of Biologically Accurate Neurons on Parallel Computers.\u201d Neurocomputing, vol. 32\u201333, June 2000, pp. 1095\u2013102. DOI.org (Crossref), https://doi.org/10.1016/S0925-2312(00)00283-6.",
+    "Released or Last Updated (year)": "2000"
+  },
+  {
+    "Candidate Framework": "PCSIM",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://sourceforge.net/projects/pcsim/",
+    "Reference": "Pecevski, Dejan. \u201cPCSIM: A Parallel Simulation Environment for Neural Circuits Fully Integrated with Python.\u201d Frontiers in Neuroinformatics, vol. 3, 2009. DOI.org (Crossref), https://doi.org/10.3389/neuro.11.011.2009.",
+    "Released or Last Updated (year)": "2009"
+  },
+  {
+    "Candidate Framework": "PennyLane",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Accelerating Scientific Computing in the Post-Moore\u2019s Era",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "PIMSim",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "PX4",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "V. Bergholm, J. Izaac, M. Schuld, C. Gogolin, and N. Killoran. 2018. PennyLane: Automatic differentiation of hybrid quantum-classical computations. ArXiv e-prints (Nov. 2018). arxiv:quant-ph/1811.04968",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "PyCARL",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Library",
+    "Source Code": "https://github.com/adarshabalaji/PyCARL",
+    "Reference": "Balaji, Adarsha, et al. PyCARL: A PyNN Interface for Hardware-Software Co-Simulation of Spiking Neural Network. arXiv:2003.09696, arXiv, 12 May 2020. arXiv.org, http://arxiv.org/abs/2003.09696.",
+    "Released or Last Updated (year)": "2020"
+  },
+  {
+    "Candidate Framework": "PymoNNto",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/trieschlab/PymoNNto",
+    "Reference": "Vieth, Marius, et al. \u201cPymoNNto: A Flexible Modular Toolbox for Designing Brain-Inspired Neural Networks.\u201d Frontiers in Neuroinformatics, vol. 15, Nov. 2021, p. 715131. DOI.org (Crossref), https://doi.org/10.3389/fninf.2021.715131.",
+    "Released or Last Updated (year)": "2021"
+  },
+  {
+    "Candidate Framework": "PymoNNtorch",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/cnrl/PymoNNtorch",
+    "Reference": "Vieth, Marius, et al. \u201cAccelerating Spiking Neural Network Simulations with PymoNNto and PymoNNtorch.\u201d Frontiers in Neuroinformatics, vol. 18, Feb. 2024, p. 1331220. DOI.org (Crossref), https://doi.org/10.3389/fninf.2024.1331220.",
+    "Released or Last Updated (year)": "2024"
+  },
+  {
+    "Candidate Framework": "PyMoo",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "pyNCS",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Toolkit",
+    "Source Code": "https://github.com/inincs/pyNCS",
+    "Reference": "Sheik, Sadique, et al. \u201cSystematic Configuration and Automatic Tuning of Neuromorphic Systems.\u201d 2011 IEEE International Symposium of Circuits and Systems (ISCAS), IEEE, 2011, pp. 873\u201376. DOI.org (Crossref), https://doi.org/10.1109/ISCAS.2011.5937705.",
+    "Released or Last Updated (year)": "2011"
+  },
+  {
+    "Candidate Framework": "PyNEST",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Library",
+    "Source Code": "https://www.nest-simulator.org/download/",
+    "Reference": "Eppler, Jochen M. \u201cPyNEST: A Convenient Interface to the NEST Simulator.\u201d Frontiers in Neuroinformatics, vol. 2, 2008. DOI.org (Crossref), https://doi.org/10.3389/neuro.11.012.2008.",
+    "Released or Last Updated (year)": "2008"
+  },
+  {
+    "Candidate Framework": "PyNN",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Model Description Language",
+    "Source Code": "https://neuralensemble.org/PyNN/",
+    "Reference": "Davison, Andrew P. \u201cPyNN: A Common Interface for Neuronal Network Simulators.\u201d Frontiers in Neuroinformatics, vol. 2, 2008. DOI.org (Crossref), https://doi.org/10.3389/neuro.11.011.2008.",
+    "Released or Last Updated (year)": "2008"
+  },
+  {
+    "Candidate Framework": "PYNQ platform",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://github.com/Xilinx/Pynq",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "PyPI",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "PyQuil",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://github.com/rigetti/pyquil",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "PySNN",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/BasBuller/PySNN",
+    "Reference": "B\u00fcller, B.: Pysnn (2019). https://github.com/BasBuller/PySNN",
+    "Released or Last Updated (year)": "2019"
+  },
+  {
+    "Candidate Framework": "PyTorch",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://pytorch.org/",
+    "Reference": "Paszke, Adam, et al. PyTorch: An Imperative Style, High-Performance Deep Learning Library.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "pyTune",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Qiskit Aqua",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "RANC",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/UA-RCL/RANC",
+    "Reference": "Mack, Joshua, et al. \u201cRANC: Reconfigurable Architecture for Neuromorphic Computing.\u201d IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 40, no. 11, Nov. 2021, pp. 2265\u201378. DOI.org (Crossref), https://doi.org/10.1109/TCAD.2020.3038151.",
+    "Released or Last Updated (year)": "2021"
+  },
+  {
+    "Candidate Framework": "RAVSim",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/Rao-Sanaullah/RAVSim",
+    "Reference": "Sanaullah, et al. \u201cEvaluation of Spiking Neural Nets-Based Image Classification Using the Runtime Simulator RAVSim.\u201d International Journal of Neural Systems, vol. 33, no. 09, Sept. 2023, p. 2350044. DOI.org (Crossref), https://doi.org/10.1142/S0129065723500442.",
+    "Released or Last Updated (year)": "2023"
+  },
+  {
+    "Candidate Framework": "RENEU",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "ReSpawn",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "ReSuMe",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "ROMANet",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "ROOT-Sim",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "ROS (Robotic Operating System)",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "RSS",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "RTDS (Real Time Digital Simulator)",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "S1C1-SNN",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SaRNN",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/WISION-Lab/sarnn",
+    "Reference": "Dutson, Matthew, et al. \u201cSpike-Based Anytime Perception.\u201d 2023 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), IEEE, 2023, pp. 5283\u201393. DOI.org (Crossref), https://doi.org/10.1109/WACV56688.2023.00526.",
+    "Released or Last Updated (year)": "2023"
+  },
+  {
+    "Candidate Framework": "SATASim",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Hardware Accellerator",
+    "Source Code": "https://github.com/RuokaiYin/SATA_Sim",
+    "Reference": "Yin, Ruokai, et al. \u201cSATA: Sparsity-Aware Training Accelerator for Spiking Neural Networks.\u201d IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 42, no. 6, June 2023, pp. 1926\u201338. DOI.org (Crossref), https://doi.org/10.1109/TCAD.2022.3213211.",
+    "Released or Last Updated (year)": "2023"
+  },
+  {
+    "Candidate Framework": "scikit-learn",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SENeCA",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SENSIM",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Nembhani, Prithvish, et al. SENSIM: An Event-Driven Parallel Simulator for Multi-Core Neuromorphic Systems.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SentryOS",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Varshika, M. Lakshmi, et al. \u201cDesign of Many-Core Big Little \u00b5Brains for Energy-Efficient Embedded Neuromorphic Computing.\u201d 2022 Design, Automation & Test in Europe Conference & Exhibition (DATE), IEEE, 2022, pp. 1011\u201316. DOI.org (Crossref), https://doi.org/10.23919/DATE54114.2022.9774613.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SHIP (Spiking Hardware In PyTorch)",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Toolkit",
+    "Source Code": "https://github.com/EmanueleGemo/SHIP",
+    "Reference": "Gemo, Emanuele, et al. \u201cSHIP: A Computational Framework for Simulating and Validating Novel Technologies in Hardware Spiking Neural Networks.\u201d Frontiers in Neuroscience, vol. 17, Jan. 2024, p. 1270090. DOI.org (Crossref), https://doi.org/10.3389/fnins.2023.1270090.",
+    "Released or Last Updated (year)": "2024"
+  },
+  {
+    "Candidate Framework": "SIES",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SimscapeSimulink",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://www.mathworks.com/products/simscape.html",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SINABS",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/synsense/sinabs",
+    "Reference": "Yao, Man, et al. \u201cSpike-Based Dynamic Computing with Asynchronous Sensing-Computing Neuromorphic Chip.\u201d Nature Communications, vol. 15, no. 1, May 2024, p. 4464. DOI.org (Crossref), https://doi.org/10.1038/s41467-024-47811-6.",
+    "Released or Last Updated (year)": "2024"
+  },
+  {
+    "Candidate Framework": "SLAYER (Spike LAYer Error Reassignment)",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Training Framework",
+    "Source Code": "https://bitbucket.org/bamsumit/slayer/src/master/",
+    "Reference": "Shrestha, Sumit Bam, and Garrick Orchard. SLAYER: Spike Layer Error Reassignment in Time.",
+    "Released or Last Updated (year)": "0"
+  },
+  {
+    "Candidate Framework": "SNEAP",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SNN dataflow simulator",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SNN simulator",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SNN-Cache",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SNNAP",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SNNToolbox",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/NeuromorphicProcessorProject/snn_toolbox",
+    "Reference": "Rueckauer, Bodo, et al. \u201cConversion of Continuous-Valued Deep Networks to Efficient Event-Driven Networks for Image Classification.\u201d Frontiers in Neuroscience, vol. 11, Dec. 2017, p. 682. DOI.org (Crossref), https://doi.org/10.3389/fnins.2017.00682.",
+    "Released or Last Updated (year)": "2017"
+  },
+  {
+    "Candidate Framework": "snnTorch",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/jeshraghian/snntorch",
+    "Reference": "Eshraghian, Jason K., et al. \u201cTraining Spiking Neural Networks Using Lessons From Deep Learning.\u201d Proceedings of the IEEE, vol. 111, no. 9, Sept. 2023, pp. 1016\u201354. DOI.org (Crossref), https://doi.org/10.1109/JPROC.2023.3308088.",
+    "Released or Last Updated (year)": "2023"
+  },
+  {
+    "Candidate Framework": "SPAIC",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/zju-bmi-lab/SPAIC",
+    "Reference": "Hong, Chaofei, et al. \u201cSPAIC: A Spike-Based Artificial Intelligence Computing Framework.\u201d IEEE Computational Intelligence Magazine, vol. 19, no. 1, Feb. 2024, pp. 51\u201365. DOI.org (Crossref), https://doi.org/10.1109/MCI.2023.3327842.",
+    "Released or Last Updated (year)": "2024"
+  },
+  {
+    "Candidate Framework": "SparkXD",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SPEEDS (Synchrony Processing for Efficient Event-Driven Simulation)",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SPICE",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SPIKE",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/OFTNAI/Spike",
+    "Reference": "Ahmad, Nasir, et al. Spike: A GPU Optimised Spiking Neural Network Simulator. 5 Nov. 2018. Neuroscience, https://doi.org/10.1101/461160.",
+    "Released or Last Updated (year)": "2018"
+  },
+  {
+    "Candidate Framework": "SpikeNC",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Xie, Lisheng, et al. \u201cSpikeNC: An Accurate and Scalable Simulator for Spiking Neural Network on Multi-Core Neuromorphic Hardware.\u201d 2023 IEEE 30th International Conference on High Performance Computing, Data, and Analytics (HiPC), IEEE, 2023, pp. 357\u201366. DOI.org (Crossref), https://doi.org/10.1109/HiPC58850.2023.00052.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SpikeNET",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/arnodelorme/SpikeNET",
+    "Reference": "Delorme, Arnaud, and Simon J. Thorpe. \u201cSpikeNET: An Event-Driven Simulation Package for Modelling Large Networks of Spiking Neurons.\u201d Network: Computation in Neural Systems, vol. 14, no. 4, Jan. 2003, pp. 613\u201327. DOI.org (Crossref), https://doi.org/10.1088/0954-898X_14_4_301.",
+    "Released or Last Updated (year)": "2003"
+  },
+  {
+    "Candidate Framework": "SpikeNNS",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SpikeProp",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SpikeStream",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://spikestream.sourceforge.net/index.html",
+    "Reference": "Gamez, David. \u201cSpikeStream: A Fast and Flexible Simulator of Spiking Neural Networks.\u201d Artificial Neural Networks \u2013 ICANN 2007, edited by Joaquim Marques De S\u00e1 et al., vol. 4668, Springer Berlin Heidelberg, 2007, pp. 360\u201369. DOI.org (Crossref), https://doi.org/10.1007/978-3-540-74690-4_37.",
+    "Released or Last Updated (year)": "2007"
+  },
+  {
+    "Candidate Framework": "SpikingJelly",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/fangwei123456/spikingjelly",
+    "Reference": "Fang, Wei, et al. \u201cSpikingJelly: An Open-Source Machine Learning Infrastructure Platform for Spike-Based Intelligence.\u201d Science Advances, vol. 9, no. 40, Oct. 2023, p. eadi1480. DOI.org (Crossref), https://doi.org/10.1126/sciadv.adi1480.",
+    "Released or Last Updated (year)": "2023"
+  },
+  {
+    "Candidate Framework": "SpikingSIM",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "Spiking Event Simulator",
+    "Source Code": "https://github.com/Evin-X/SpikingSIM",
+    "Reference": "Zhao, Junwei, et al. \u201cSpikingSIM: A Bio-Inspired Spiking Simulator.\u201d 2022 IEEE International Symposium on Circuits and Systems (ISCAS), IEEE, 2022, pp. 3003\u201307. DOI.org (Crossref), https://doi.org/10.1109/ISCAS48785.2022.9937811.",
+    "Released or Last Updated (year)": "2022"
+  },
+  {
+    "Candidate Framework": "SpiNeMap",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "A. Balaji et al., \"Mapping Spiking Neural Networks to Neuromorphic Hardware,\" in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 28, no. 1, pp. 76-86, Jan. 2020, doi: 10.1109/TVLSI.2019.2951493. keywords: {Synapses;Hardware;Neurons;Neuromorphics;Energy consumption;Distortion;Design methodology;Interspike interval (ISI);neuromorphic computing;spiking neural network (SNN)},",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SpineML",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Model Description Language",
+    "Source Code": "https://github.com/SpineML/spineml",
+    "Reference": "Cope, Alexander J., et al. \u201cThe SpineML Toolchain: Enabling Computational Neuroscience through Flexible Tools for Creating, Sharing, and Simulating Neural Models.\u201d BMC Neuroscience, vol. 15, no. S1, July 2014, pp. P224, 1471-2202-15-S1-P224. DOI.org (Crossref), https://doi.org/10.1186/1471-2202-15-S1-P224.",
+    "Released or Last Updated (year)": "2014"
+  },
+  {
+    "Candidate Framework": "SpiNNaker",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SpiNNTools",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Mapping Tool / Compiler",
+    "Source Code": "https://github.com/SpiNNakerManchester/spinnaker_tools",
+    "Reference": "Rowley, Andrew G. D., et al. \u201cSpiNNTools: The Execution Engine for the SpiNNaker Platform.\u201d Frontiers in Neuroscience, vol. 13, Mar. 2019, p. 231. DOI.org (Crossref), https://doi.org/10.3389/fnins.2019.00231.",
+    "Released or Last Updated (year)": "2019"
+  },
+  {
+    "Candidate Framework": "SPLIT",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SpNSim",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SpykeTorch",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/miladmozafari/SpykeTorch",
+    "Reference": "Mozafari, Milad, et al. \u201cSpykeTorch: Efficient Simulation of Convolutional Spiking Neural Networks With at Most One Spike per Neuron.\u201d Frontiers in Neuroscience, vol. 13, July 2019, p. 625. DOI.org (Crossref), https://doi.org/10.3389/fnins.2019.00625.",
+    "Released or Last Updated (year)": "2019"
+  },
+  {
+    "Candidate Framework": "sPyNNaker",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Toolkit",
+    "Source Code": "https://github.com/SpiNNakerManchester/sPyNNaker",
+    "Reference": "Rhodes, Oliver, et al. \u201csPyNNaker: A Software Package for Running PyNN Simulations on SpiNNaker.\u201d Frontiers in Neuroscience, vol. 12, Nov. 2018, p. 816. DOI.org (Crossref), https://doi.org/10.3389/fnins.2018.00816.",
+    "Released or Last Updated (year)": "2018"
+  },
+  {
+    "Candidate Framework": "Spyx",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/kmheckel/spyx",
+    "Reference": "Heckel, Kade M., and Thomas Nowotny. Spyx: A Library for Just-In-Time Compiled Optimization of Spiking Neural Networks. 1, arXiv, 2024. DOI.org (Datacite), https://doi.org/10.48550/ARXIV.2402.18994.",
+    "Released or Last Updated (year)": "2024"
+  },
+  {
+    "Candidate Framework": "SSNNS",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SST",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "STACS (Simulation Tool for Asynchronous Cortical Streams)",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "Spiking Event Simulator",
+    "Source Code": "https://github.com/sandialabs/STACS",
+    "Reference": "Wang, Felix. \u201cSimulation Tool for Asynchronous Cortical Streams (STACS): Interfacing with Spiking Neural Networks.\u201d Procedia Computer Science, vol. 61, 2015, pp. 322\u201327. DOI.org (Crossref), https://doi.org/10.1016/j.procs.2015.09.149.",
+    "Released or Last Updated (year)": "2024"
+  },
+  {
+    "Candidate Framework": "STICK",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://github.com/MarionTormento/GML_STICK",
+    "Reference": "Lagorce, Xavier, and Ryad Benosman. STICK: Spike Time Interval Computational Kernel, A Framework for General Purpose Computation Using Neurons, Precise Timing, Delays, and Synchrony. arXiv:1507.06222, arXiv, 22 July 2015. arXiv.org, http://arxiv.org/abs/1507.06222.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SuperNeuro",
+    "Item Type": "Open Source Software SNN Simulator or Framework",
+    "Sub Type": "SNN Software Simulator",
+    "Source Code": "https://github.com/ORNL/superneuro   https://github.com/ORNL/superneuromat",
+    "Reference": "Date, Prasanna, et al. \u201cSuperNeuro: A Fast and Scalable Simulator for Neuromorphic Computing.\u201d Proceedings of the 2023 International Conference on Neuromorphic Systems, ACM, 2023, pp. 1\u20134. DOI.org (Crossref), https://doi.org/10.1145/3589737.3606000.",
+    "Released or Last Updated (year)": "2023"
+  },
+  {
+    "Candidate Framework": "SwiftSpike",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Synapse",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "SystemC",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://github.com/accellera-official/systemc",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "TENNLab",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Plank, James S., et al. \u201cThe TENNLab Exploratory Neuromorphic Computing Framework.\u201d IEEE Letters of the Computer Society, vol. 1, no. 2, July 2018, pp. 17\u201320. DOI.org (Crossref), https://doi.org/10.1109/LOCS.2018.2885976.",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "TensorFlow",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://www.tensorflow.org/",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Theano",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://github.com/Theano/Theano",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "TJSim",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "TVM",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "UMP-TDP",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "UNICORE4",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "VS2N",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Whetstone",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "Severa, W., Vineyard, C.M., Dellana, R. et al. Training deep neural networks for binary communication with the Whetstone method. Nat Mach Intell 1, 86\u201394 (2019). https://doi.org/10.1038/s42256-018-0015-y",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "XLA",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "XNBC",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "Xnet",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "XPP",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "XSNN",
+    "Item Type": "Software SNN Simulator or Framework Unavailable",
+    "Sub Type": "",
+    "Source Code": "",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  },
+  {
+    "Candidate Framework": "YARP (Yest Another Robot Platform)",
+    "Item Type": "Not a Software SNN Simulator or Framework",
+    "Sub Type": "",
+    "Source Code": "https://github.com/robotology/yarp",
+    "Reference": "",
+    "Released or Last Updated (year)": ""
+  }
+]
