@@ -273,13 +273,13 @@ Developed as a research tool to model biologically realistic neural systems, GEN
 \end{tcolorbox}
 \subsection*{GeNN Research Notes}\label{GeNN}
 
-The GeNN (GPU Enhanced Neuronal Network) simulator, widely popular in the past decade, serves as a GPU-accelerated backend for the Brian2 simulator through Brian2GeNN, enabling efficient simulations of large-scale spiking neural networks (SNNs). It supports a variety of pre-defined neuron and synapse models and offers extensive flexibility through Code-snippets that integrate seamlessly with Brian2-generated code. As a code generation framework, GeNN produces optimized CUDA code for both CPU and GPU, allowing for direct comparison between the two platforms. This design aims to speed up simulations significantly—up to 200 times faster on GPUs—especially for complex neuron models and sparse connectivity. Future development includes supporting multi-GPU setups to further enhance simulation performance.
+The GeNN (GPU Enhanced Neuronal Network) simulator, widely popular in the past decade, serves as a GPU-accelerated backend for the Brian2 simulator through Brian2GeNN, enabling efficient simulations of large-scale spiking neural networks (SNNs). It supports a variety of pre-defined neuron and synapse models and offers extensive flexibility through Code-snippets that integrate seamlessly with Brian2-generated code. As a code generation framework, GeNN produces optimized CUDA code for both CPU and GPU, allowing for direct comparison between the two platforms. This design aims to speed up simulations significantly, up to 200 times faster on GPUs, especially for complex neuron models and sparse connectivity. Future development includes supporting multi-GPU setups to further enhance simulation performance.
 
 Active development of GeNN continues, with the latest updates pushed to GitHub in October 2024. The simulator has been used successfully for training SNN classifiers on datasets like the Spiking Heidelberg Digits and Spiking Sequential MNIST, demonstrating its capability for real-time applications. GeNN allows users to control model dynamics without needing low-level GPU programming knowledge and supports a wide range of models, from simple Izhikevich neurons to complex Hodgkin-Huxley models. Its extensibility and ongoing collaborations with other simulators, like Brian2 and SpineML, ensure its continued relevance and usefulness in computational neuroscience research.
 
 \begin{tcolorbox}[enhanced,attach boxed title to top center={yshift=-3mm,yshifttext=-1mm}, colback=blue!5!white,colframe=blue!75!black,colbacktitle=red!80!black, title=GeNN at a Glance,fonttitle=\bfseries, boxed title style={size=small,colframe=red!50!black} ]
 
-\textbf{Neuron Models:} Hodgkin–Huxley, Izhikevich, Equation-based, Kulkov Map
+\textbf{Neuron Models:} Hodgkin–Huxley, Izhikevich, Equation-based, Rulkov Map
 
 \textbf{Learning Methods:} Spike Timing Dependant Plasticity (STDP)  
 
