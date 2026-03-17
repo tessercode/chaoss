@@ -34,7 +34,7 @@ Feature data in JSON format for programmatic use.
 
 | File | Description |
 |------|-------------|
-| `literature-search-queries.md` | Database search strings (Table 1), inclusion/exclusion criteria, and screening funnel (573 → 321 → 261 → 83 → 45) |
+| `literature-search-queries.md` | Database search strings (Table 1), inclusion/exclusion criteria, and screening funnel (317 → 259 → 81 → 45) |
 
 ## Building
 
